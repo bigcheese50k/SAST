@@ -1,0 +1,4979 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:11] filterscripts = ""  (string)
+[21:45:11] 
+[21:45:11] Server Plugins
+[21:45:11] --------------
+[21:45:11]  Loading plugin: gvar
+[21:45:11] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:45:11]   Loaded.
+[21:45:11]  Loading plugin: mysql
+[21:45:11]  >> plugin.mysql: running on 1 thread.
+[21:45:11]  >> plugin.mysql: R31 successfully loaded.
+[21:45:11]   Loaded.
+[21:45:11]  Loading plugin: sscanf
+[21:45:12] 
+
+[21:45:12]  ===============================
+
+[21:45:12]       sscanf plugin loaded.     
+
+[21:45:12]    (c) 2009 Alex "Y_Less" Cole
+
+[21:45:12]    0.3d-R2 500 Players "dnee"
+
+[21:45:12]  ===============================
+
+[21:45:12]   Loaded.
+[21:45:12]  Loading plugin: streamer
+[21:45:13] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:45:13]   Loaded.
+[21:45:13]  Loaded 4 plugins.
+
+[21:45:13] 
+[21:45:13] Filterscripts
+[21:45:13] ---------------
+[21:45:13]   Loaded 0 filterscripts.
+
+[21:45:13]  
+[21:45:13]  
+[21:45:13]  
+[21:45:13]  ======================================= 
+[21:45:13]  |                                     | 
+[21:45:13]  |        YSI version 3.09.0684        | 
+[21:45:13]  |        By Alex "Y_Less" Cole        | 
+[21:45:13]  |                                     | 
+[21:45:13]  ======================================= 
+[21:45:13]  
+[21:45:13]  
+[21:45:13]  
+[21:45:13] Серверная погода Солнечно - 0
+[21:45:13] [MYSQL] подключение успешно (1)
+[21:45:14] LoadBankFrac
+[21:45:14] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[21:45:14] # Copyright © 2012-2016 By Ilya. #
+[21:45:14] Number of vehicle models: 22
+[21:45:15] LoadProperty[ Загрузка ... ] Потрачено: 1518ms | Загружено: 722 домов
+[21:45:15] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[21:45:15] LoadBizz[ Загрузка ... ] Потрачено: 27ms | Загружено: 66 бизнесов
+[21:45:15] LoadPodezd[ Загрузка ... ] Потрачено: 7ms | Загружено: 63 подъездов
+[21:45:15] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 18ms
+[21:45:15] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[21:45:15] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[21:45:15] LoadGarages[ Загрузка ... ] Потрачено: 46ms | Загружено: 157 гаражей
+[21:45:15] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[21:45:15] maxaccs = 961
+[21:45:15] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[21:45:15] Система мебели: Загружено 2377 мебели!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:46:03] filterscripts = ""  (string)
+[20:46:03] 
+[20:46:03] Server Plugins
+[20:46:03] --------------
+[20:46:03]  Loading plugin: gvar
+[20:46:03] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:46:03]   Loaded.
+[20:46:03]  Loading plugin: mysql
+[20:46:04]  >> plugin.mysql: running on 1 thread.
+[20:46:04]  >> plugin.mysql: R31 successfully loaded.
+[20:46:04]   Loaded.
+[20:46:04]  Loading plugin: sscanf
+[20:46:04] 
+
+[20:46:04]  ===============================
+
+[20:46:04]       sscanf plugin loaded.     
+
+[20:46:04]    (c) 2009 Alex "Y_Less" Cole
+
+[20:46:04]    0.3d-R2 500 Players "dnee"
+
+[20:46:04]  ===============================
+
+[20:46:04]   Loaded.
+[20:46:04]  Loading plugin: streamer
+[20:46:04] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:46:04]   Loaded.
+[20:46:04]  Loaded 4 plugins.
+
+[20:46:04] 
+[20:46:04] Filterscripts
+[20:46:04] ---------------
+[20:46:04]   Loaded 0 filterscripts.
+
+[20:46:06]  
+[20:46:06]  
+[20:46:06]  
+[20:46:06]  ======================================= 
+[20:46:06]  |                                     | 
+[20:46:06]  |        YSI version 3.09.0684        | 
+[20:46:06]  |        By Alex "Y_Less" Cole        | 
+[20:46:06]  |                                     | 
+[20:46:06]  ======================================= 
+[20:46:06]  
+[20:46:06]  
+[20:46:06]  
+[20:46:06] Серверная погода Сонячно - 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:46:23] filterscripts = ""  (string)
+[20:46:23] 
+[20:46:23] Server Plugins
+[20:46:23] --------------
+[20:46:23]  Loading plugin: gvar
+[20:46:23] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:46:23]   Loaded.
+[20:46:23]  Loading plugin: mysql
+[20:46:23]  >> plugin.mysql: running on 1 thread.
+[20:46:23]  >> plugin.mysql: R31 successfully loaded.
+[20:46:23]   Loaded.
+[20:46:23]  Loading plugin: sscanf
+[20:46:23] 
+
+[20:46:23]  ===============================
+
+[20:46:23]       sscanf plugin loaded.     
+
+[20:46:23]    (c) 2009 Alex "Y_Less" Cole
+
+[20:46:23]    0.3d-R2 500 Players "dnee"
+
+[20:46:23]  ===============================
+
+[20:46:23]   Loaded.
+[20:46:23]  Loading plugin: streamer
+[20:46:23] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:46:23]   Loaded.
+[20:46:23]  Loaded 4 plugins.
+
+[20:46:23] 
+[20:46:23] Filterscripts
+[20:46:23] ---------------
+[20:46:23]   Loaded 0 filterscripts.
+
+[20:46:23]  
+[20:46:23]  
+[20:46:23]  
+[20:46:23]  ======================================= 
+[20:46:23]  |                                     | 
+[20:46:23]  |        YSI version 3.09.0684        | 
+[20:46:23]  |        By Alex "Y_Less" Cole        | 
+[20:46:23]  |                                     | 
+[20:46:23]  ======================================= 
+[20:46:23]  
+[20:46:23]  
+[20:46:23]  
+[20:46:23] Серверная погода Сонячно - 0
+[20:46:23] [MYSQL] неудалось соединится с базой данных (1)
+[20:46:23] # Copyright © 2012-2016 By Ilya. #
+[20:46:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:49:26] filterscripts = ""  (string)
+[20:49:26] 
+[20:49:26] Server Plugins
+[20:49:26] --------------
+[20:49:26]  Loading plugin: gvar
+[20:49:26] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:49:26]   Loaded.
+[20:49:26]  Loading plugin: mysql
+[20:49:26]  >> plugin.mysql: running on 1 thread.
+[20:49:26]  >> plugin.mysql: R31 successfully loaded.
+[20:49:26]   Loaded.
+[20:49:26]  Loading plugin: sscanf
+[20:49:26] 
+
+[20:49:26]  ===============================
+
+[20:49:26]       sscanf plugin loaded.     
+
+[20:49:26]    (c) 2009 Alex "Y_Less" Cole
+
+[20:49:26]    0.3d-R2 500 Players "dnee"
+
+[20:49:26]  ===============================
+
+[20:49:26]   Loaded.
+[20:49:26]  Loading plugin: streamer
+[20:49:26] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:49:26]   Loaded.
+[20:49:26]  Loaded 4 plugins.
+
+[20:49:26] 
+[20:49:26] Filterscripts
+[20:49:26] ---------------
+[20:49:26]   Loaded 0 filterscripts.
+
+[20:49:26]  
+[20:49:26]  
+[20:49:26]  
+[20:49:26]  ======================================= 
+[20:49:26]  |                                     | 
+[20:49:26]  |        YSI version 3.09.0684        | 
+[20:49:26]  |        By Alex "Y_Less" Cole        | 
+[20:49:26]  |                                     | 
+[20:49:26]  ======================================= 
+[20:49:26]  
+[20:49:26]  
+[20:49:26]  
+[20:49:26] Серверная погода Сонячно - 0
+[20:49:26] [MYSQL] неудалось соединится с базой данных (1)
+[20:49:26] # Copyright © 2012-2016 By Ilya. #
+[20:49:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:51:14] filterscripts = ""  (string)
+[20:51:14] 
+[20:51:14] Server Plugins
+[20:51:14] --------------
+[20:51:14]  Loading plugin: gvar
+[20:51:14] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:51:14]   Loaded.
+[20:51:14]  Loading plugin: mysql
+[20:51:14]  >> plugin.mysql: running on 1 thread.
+[20:51:14]  >> plugin.mysql: R31 successfully loaded.
+[20:51:14]   Loaded.
+[20:51:14]  Loading plugin: sscanf
+[20:51:14] 
+
+[20:51:14]  ===============================
+
+[20:51:14]       sscanf plugin loaded.     
+
+[20:51:14]    (c) 2009 Alex "Y_Less" Cole
+
+[20:51:14]    0.3d-R2 500 Players "dnee"
+
+[20:51:14]  ===============================
+
+[20:51:14]   Loaded.
+[20:51:14]  Loading plugin: streamer
+[20:51:14] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:51:14]   Loaded.
+[20:51:14]  Loaded 4 plugins.
+
+[20:51:14] 
+[20:51:14] Filterscripts
+[20:51:14] ---------------
+[20:51:14]   Loaded 0 filterscripts.
+
+[20:51:14]  
+[20:51:14]  
+[20:51:14]  
+[20:51:14]  ======================================= 
+[20:51:14]  |                                     | 
+[20:51:14]  |        YSI version 3.09.0684        | 
+[20:51:14]  |        By Alex "Y_Less" Cole        | 
+[20:51:14]  |                                     | 
+[20:51:14]  ======================================= 
+[20:51:14]  
+[20:51:14]  
+[20:51:14]  
+[20:51:14] Серверная погода Сонячно - 0
+[20:51:14] [MYSQL] подключение успешно (1)
+[20:51:14] LoadBankFrac
+[20:51:14] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 12ms
+[20:51:14] # Copyright © 2012-2016 By Ilya. #
+[20:51:14] Number of vehicle models: 22
+[20:51:15] LoadProperty[ Загрузка ... ] Потрачено: 266ms | Загружено: 722 домов
+[20:51:15] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[20:51:15] LoadBizz[ Загрузка ... ] Потрачено: 41ms | Загружено: 66 бизнесов
+[20:51:15] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[20:51:15] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[20:51:15] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[20:51:15] LoadMobileStation[ Загрузка ... ] Потрачено: 1ms
+[20:51:15] LoadGarages[ Загрузка ... ] Потрачено: 60ms | Загружено: 157 гаражей
+[20:51:15] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[20:51:15] maxaccs = 961
+[20:51:15] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[20:51:15] Система мебели: Загружено 2335 мебели!
+[20:51:15] SaveAutoFunc. Потрачено: 162ms
+[20:51:15] LoadAutoFunc[ Загрузка ... ] Потрачено: 330ms | Загружено: 0 транспорта
+[20:51:15] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[20:51:15] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[20:51:15] LoadZas[ Загрузка ... ] Потрачено: 44ms | Загружено: 5 АЗС
+[20:51:15] Система объектов: Загружено 51 объектов!
+[20:51:15] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[20:54:13] [connection] 127.0.0.1:52487 requests connection cookie.
+[20:54:14] [connection] incoming connection: 127.0.0.1:52487 id: 0
+[20:54:14] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[20:54:14] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:32:35] filterscripts = ""  (string)
+[21:32:35] 
+[21:32:35] Server Plugins
+[21:32:35] --------------
+[21:32:35]  Loading plugin: gvar
+[21:32:35] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:32:35]   Loaded.
+[21:32:35]  Loading plugin: mysql
+[21:32:35]  >> plugin.mysql: running on 1 thread.
+[21:32:35]  >> plugin.mysql: R31 successfully loaded.
+[21:32:35]   Loaded.
+[21:32:35]  Loading plugin: sscanf
+[21:32:35] 
+
+[21:32:35]  ===============================
+
+[21:32:35]       sscanf plugin loaded.     
+
+[21:32:35]    (c) 2009 Alex "Y_Less" Cole
+
+[21:32:35]    0.3d-R2 500 Players "dnee"
+
+[21:32:35]  ===============================
+
+[21:32:35]   Loaded.
+[21:32:35]  Loading plugin: streamer
+[21:32:35] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:32:35]   Loaded.
+[21:32:35]  Loaded 4 plugins.
+
+[21:32:35] 
+[21:32:35] Filterscripts
+[21:32:35] ---------------
+[21:32:35]   Loaded 0 filterscripts.
+
+[21:32:35]  
+[21:32:35]  
+[21:32:35]  
+[21:32:35]  ======================================= 
+[21:32:35]  |                                     | 
+[21:32:35]  |        YSI version 3.09.0684        | 
+[21:32:35]  |        By Alex "Y_Less" Cole        | 
+[21:32:35]  |                                     | 
+[21:32:35]  ======================================= 
+[21:32:35]  
+[21:32:35]  
+[21:32:35]  
+[21:32:35] Серверная погода Сонячно - 0
+[21:32:35] [MYSQL] подключение успешно (1)
+[21:32:35] LoadBankFrac
+[21:32:35] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[21:32:35] # Copyright © 2012-2016 By Ilya. #
+[21:32:35] Number of vehicle models: 22
+[21:32:36] LoadProperty[ Загрузка ... ] Потрачено: 382ms | Загружено: 722 домов
+[21:32:36] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[21:32:36] LoadBizz[ Загрузка ... ] Потрачено: 36ms | Загружено: 66 бизнесов
+[21:32:36] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[21:32:36] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 25ms
+[21:32:36] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[21:32:36] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[21:32:36] LoadGarages[ Загрузка ... ] Потрачено: 84ms | Загружено: 157 гаражей
+[21:32:36] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[21:32:36] maxaccs = 961
+[21:32:36] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[21:32:36] Система мебели: Загружено 2335 мебели!
+[21:32:43] SaveAutoFunc. Потрачено: 6328ms
+[21:32:43] LoadAutoFunc[ Загрузка ... ] Потрачено: 6513ms | Загружено: 0 транспорта
+[21:32:43] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[21:32:43] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[21:32:43] LoadZas[ Загрузка ... ] Потрачено: 408ms | Загружено: 5 АЗС
+[21:32:43] Система объектов: Загружено 51 объектов!
+[21:32:43] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[21:33:57] [connection] 127.0.0.1:62055 requests connection cookie.
+[21:33:58] [connection] incoming connection: 127.0.0.1:62055 id: 0
+[21:33:59] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[21:33:59] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:44:50] filterscripts = ""  (string)
+[22:44:50] 
+[22:44:50] Server Plugins
+[22:44:50] --------------
+[22:44:50]  Loading plugin: gvar
+[22:44:50] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[22:44:50]   Loaded.
+[22:44:50]  Loading plugin: mysql
+[22:44:50]  >> plugin.mysql: running on 1 thread.
+[22:44:50]  >> plugin.mysql: R31 successfully loaded.
+[22:44:50]   Loaded.
+[22:44:50]  Loading plugin: sscanf
+[22:44:50] 
+
+[22:44:50]  ===============================
+
+[22:44:50]       sscanf plugin loaded.     
+
+[22:44:50]    (c) 2009 Alex "Y_Less" Cole
+
+[22:44:50]    0.3d-R2 500 Players "dnee"
+
+[22:44:50]  ===============================
+
+[22:44:50]   Loaded.
+[22:44:50]  Loading plugin: streamer
+[22:44:50] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[22:44:50]   Loaded.
+[22:44:50]  Loaded 4 plugins.
+
+[22:44:50] 
+[22:44:50] Filterscripts
+[22:44:50] ---------------
+[22:44:50]   Loaded 0 filterscripts.
+
+[22:44:50]  
+[22:44:50]  
+[22:44:50]  
+[22:44:50]  ======================================= 
+[22:44:50]  |                                     | 
+[22:44:50]  |        YSI version 3.09.0684        | 
+[22:44:50]  |        By Alex "Y_Less" Cole        | 
+[22:44:50]  |                                     | 
+[22:44:50]  ======================================= 
+[22:44:50]  
+[22:44:50]  
+[22:44:50]  
+[22:44:50] Серверная погода Сонячно - 0
+[22:44:50] [MYSQL] подключение успешно (1)
+[22:44:51] LoadBankFrac
+[22:44:51] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[22:44:51] # Copyright © 2012-2016 By Ilya. #
+[22:44:51] Number of vehicle models: 22
+[22:44:51] LoadProperty[ Загрузка ... ] Потрачено: 341ms | Загружено: 722 домов
+[22:44:51] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[22:44:51] LoadBizz[ Загрузка ... ] Потрачено: 51ms | Загружено: 66 бизнесов
+[22:44:51] LoadPodezd[ Загрузка ... ] Потрачено: 12ms | Загружено: 63 подъездов
+[22:44:51] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 25ms
+[22:44:51] LoadGatesSystem[ Загрузка ... ] Потрачено: 4ms
+[22:44:51] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[22:44:51] LoadGarages[ Загрузка ... ] Потрачено: 75ms | Загружено: 157 гаражей
+[22:44:51] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[22:44:51] maxaccs = 961
+[22:44:51] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[22:44:51] Система мебели: Загружено 2335 мебели!
+[22:45:02] SaveAutoFunc. Потрачено: 10409ms
+[22:45:02] LoadAutoFunc[ Загрузка ... ] Потрачено: 10586ms | Загружено: 0 транспорта
+[22:45:02] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[22:45:02] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[22:45:02] LoadZas[ Загрузка ... ] Потрачено: 393ms | Загружено: 5 АЗС
+[22:45:02] Система объектов: Загружено 51 объектов!
+[22:45:02] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[22:46:09] [connection] 127.0.0.1:54344 requests connection cookie.
+[22:46:10] [connection] incoming connection: 127.0.0.1:54344 id: 0
+[22:46:10] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[22:46:11] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[22:47:51] SaveAutoFunc. Потрачено: 31114ms
+[22:47:51] [part] Arthur_Houston has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:01:32] filterscripts = ""  (string)
+[13:01:32] 
+[13:01:32] Server Plugins
+[13:01:32] --------------
+[13:01:32]  Loading plugin: gvar
+[13:01:32] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:01:32]   Loaded.
+[13:01:32]  Loading plugin: mysql
+[13:01:32]  >> plugin.mysql: running on 1 thread.
+[13:01:32]  >> plugin.mysql: R31 successfully loaded.
+[13:01:32]   Loaded.
+[13:01:32]  Loading plugin: sscanf
+[13:01:32] 
+
+[13:01:32]  ===============================
+
+[13:01:32]       sscanf plugin loaded.     
+
+[13:01:32]    (c) 2009 Alex "Y_Less" Cole
+
+[13:01:32]    0.3d-R2 500 Players "dnee"
+
+[13:01:32]  ===============================
+
+[13:01:32]   Loaded.
+[13:01:32]  Loading plugin: streamer
+[13:01:32] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:01:32]   Loaded.
+[13:01:32]  Loaded 4 plugins.
+
+[13:01:32] 
+[13:01:32] Filterscripts
+[13:01:32] ---------------
+[13:01:32]   Loaded 0 filterscripts.
+
+[13:01:32]  
+[13:01:32]  
+[13:01:32]  
+[13:01:32]  ======================================= 
+[13:01:32]  |                                     | 
+[13:01:32]  |        YSI version 3.09.0684        | 
+[13:01:32]  |        By Alex "Y_Less" Cole        | 
+[13:01:32]  |                                     | 
+[13:01:32]  ======================================= 
+[13:01:32]  
+[13:01:32]  
+[13:01:32]  
+[13:01:32] Серверная погода Сонячно - 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:01:43] filterscripts = ""  (string)
+[13:01:43] 
+[13:01:43] Server Plugins
+[13:01:43] --------------
+[13:01:43]  Loading plugin: gvar
+[13:01:43] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:01:43]   Loaded.
+[13:01:43]  Loading plugin: mysql
+[13:01:43]  >> plugin.mysql: running on 1 thread.
+[13:01:43]  >> plugin.mysql: R31 successfully loaded.
+[13:01:43]   Loaded.
+[13:01:43]  Loading plugin: sscanf
+[13:01:43] 
+
+[13:01:43]  ===============================
+
+[13:01:43]       sscanf plugin loaded.     
+
+[13:01:43]    (c) 2009 Alex "Y_Less" Cole
+
+[13:01:43]    0.3d-R2 500 Players "dnee"
+
+[13:01:43]  ===============================
+
+[13:01:43]   Loaded.
+[13:01:43]  Loading plugin: streamer
+[13:01:43] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:01:43]   Loaded.
+[13:01:43]  Loaded 4 plugins.
+
+[13:01:43] 
+[13:01:43] Filterscripts
+[13:01:43] ---------------
+[13:01:43]   Loaded 0 filterscripts.
+
+[13:01:43]  
+[13:01:43]  
+[13:01:43]  
+[13:01:43]  ======================================= 
+[13:01:43]  |                                     | 
+[13:01:43]  |        YSI version 3.09.0684        | 
+[13:01:43]  |        By Alex "Y_Less" Cole        | 
+[13:01:43]  |                                     | 
+[13:01:43]  ======================================= 
+[13:01:43]  
+[13:01:43]  
+[13:01:43]  
+[13:01:43] Серверная погода Сонячно - 0
+[13:01:44] [MYSQL] подключение успешно (1)
+[13:01:44] LoadBankFrac
+[13:01:44] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[13:01:44] # Copyright © 2012-2016 By Ilya. #
+[13:01:44] Number of vehicle models: 22
+[13:01:45] LoadProperty[ Загрузка ... ] Потрачено: 804ms | Загружено: 722 домов
+[13:01:45] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[13:01:45] LoadBizz[ Загрузка ... ] Потрачено: 121ms | Загружено: 66 бизнесов
+[13:01:45] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[13:01:45] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[13:01:45] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[13:01:45] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[13:01:45] LoadGarages[ Загрузка ... ] Потрачено: 56ms | Загружено: 157 гаражей
+[13:01:45] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[13:01:45] maxaccs = 961
+[13:01:45] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[13:01:45] Система мебели: Загружено 2335 мебели!
+[13:01:47] SaveAutoFunc. Потрачено: 2177ms
+[13:01:47] LoadAutoFunc[ Загрузка ... ] Потрачено: 2329ms | Загружено: 0 транспорта
+[13:01:47] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[13:01:47] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[13:01:48] LoadZas[ Загрузка ... ] Потрачено: 98ms | Загружено: 5 АЗС
+[13:01:48] Система объектов: Загружено 51 объектов!
+[13:01:48] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[13:03:10] [connection] 127.0.0.1:62462 requests connection cookie.
+[13:03:11] [connection] incoming connection: 127.0.0.1:62462 id: 0
+[13:03:11] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:03:12] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[13:05:32] SaveAutoFunc. Потрачено: 18739ms
+[13:05:32] [part] Arthur_Houston has left the server (0:2)
+[13:07:40] [connection] 127.0.0.1:51864 requests connection cookie.
+[13:07:41] [connection] incoming connection: 127.0.0.1:51864 id: 0
+[13:07:42] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:07:42] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:10:29] filterscripts = ""  (string)
+[13:10:29] 
+[13:10:29] Server Plugins
+[13:10:29] --------------
+[13:10:29]  Loading plugin: gvar
+[13:10:29] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:10:29]   Loaded.
+[13:10:29]  Loading plugin: mysql
+[13:10:29]  >> plugin.mysql: running on 1 thread.
+[13:10:29]  >> plugin.mysql: R31 successfully loaded.
+[13:10:29]   Loaded.
+[13:10:29]  Loading plugin: sscanf
+[13:10:29] 
+
+[13:10:29]  ===============================
+
+[13:10:29]       sscanf plugin loaded.     
+
+[13:10:29]    (c) 2009 Alex "Y_Less" Cole
+
+[13:10:29]    0.3d-R2 500 Players "dnee"
+
+[13:10:29]  ===============================
+
+[13:10:29]   Loaded.
+[13:10:29]  Loading plugin: streamer
+[13:10:29] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:10:29]   Loaded.
+[13:10:29]  Loaded 4 plugins.
+
+[13:10:29] 
+[13:10:29] Filterscripts
+[13:10:30] ---------------
+[13:10:30]   Loaded 0 filterscripts.
+
+[13:10:30]  
+[13:10:30]  
+[13:10:30]  
+[13:10:30]  ======================================= 
+[13:10:30]  |                                     | 
+[13:10:30]  |        YSI version 3.09.0684        | 
+[13:10:30]  |        By Alex "Y_Less" Cole        | 
+[13:10:30]  |                                     | 
+[13:10:30]  ======================================= 
+[13:10:30]  
+[13:10:30]  
+[13:10:30]  
+[13:10:30] Серверная погода Сонячно - 0
+[13:10:30] [MYSQL] подключение успешно (1)
+[13:10:30] LoadBankFrac
+[13:10:30] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[13:10:30] # Copyright © 2012-2016 By Ilya. #
+[13:10:30] Number of vehicle models: 22
+[13:10:30] [connection] 127.0.0.1:60870 requests connection cookie.
+[13:10:30] LoadProperty[ Загрузка ... ] Потрачено: 314ms | Загружено: 722 домов
+[13:10:30] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[13:10:30] LoadBizz[ Загрузка ... ] Потрачено: 35ms | Загружено: 66 бизнесов
+[13:10:30] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[13:10:30] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[13:10:30] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[13:10:30] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[13:10:30] LoadGarages[ Загрузка ... ] Потрачено: 61ms | Загружено: 157 гаражей
+[13:10:30] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[13:10:30] maxaccs = 961
+[13:10:30] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[13:10:30] Система мебели: Загружено 2335 мебели!
+[13:10:38] SaveAutoFunc. Потрачено: 7044ms
+[13:10:38] LoadAutoFunc[ Загрузка ... ] Потрачено: 7207ms | Загружено: 0 транспорта
+[13:10:38] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[13:10:38] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[13:10:38] LoadZas[ Загрузка ... ] Потрачено: 143ms | Загружено: 5 АЗС
+[13:10:38] Система объектов: Загружено 51 объектов!
+[13:10:38] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[13:10:38] [connection] incoming connection: 127.0.0.1:60870 id: 0
+[13:10:38] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:10:38] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[13:11:31] SaveAutoFunc. Потрачено: 37764ms
+[13:11:31] [part] Arthur_Houston has left the server (0:0)
+[13:12:05] [connection] 127.0.0.1:56011 requests connection cookie.
+[13:12:06] [connection] incoming connection: 127.0.0.1:56011 id: 0
+[13:12:06] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:12:07] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[13:16:55] SaveAutoFunc. Потрачено: 23978ms
+[13:16:55] [part] Arthur_Houston has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:50:57] filterscripts = ""  (string)
+[16:50:57] 
+[16:50:57] Server Plugins
+[16:50:57] --------------
+[16:50:57]  Loading plugin: gvar
+[16:50:57] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[16:50:57]   Loaded.
+[16:50:57]  Loading plugin: mysql
+[16:50:57]  >> plugin.mysql: running on 1 thread.
+[16:50:57]  >> plugin.mysql: R31 successfully loaded.
+[16:50:57]   Loaded.
+[16:50:57]  Loading plugin: sscanf
+[16:50:57] 
+
+[16:50:57]  ===============================
+
+[16:50:57]       sscanf plugin loaded.     
+
+[16:50:57]    (c) 2009 Alex "Y_Less" Cole
+
+[16:50:57]    0.3d-R2 500 Players "dnee"
+
+[16:50:57]  ===============================
+
+[16:50:57]   Loaded.
+[16:50:57]  Loading plugin: streamer
+[16:50:57] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[16:50:57]   Loaded.
+[16:50:57]  Loaded 4 plugins.
+
+[16:50:57] 
+[16:50:57] Filterscripts
+[16:50:57] ---------------
+[16:50:57]   Loaded 0 filterscripts.
+
+[16:50:57]  
+[16:50:57]  
+[16:50:57]  
+[16:50:57]  ======================================= 
+[16:50:57]  |                                     | 
+[16:50:57]  |        YSI version 3.09.0684        | 
+[16:50:57]  |        By Alex "Y_Less" Cole        | 
+[16:50:57]  |                                     | 
+[16:50:57]  ======================================= 
+[16:50:57]  
+[16:50:57]  
+[16:50:57]  
+[16:50:57] Серверная погода Сонячно - 0
+[16:50:57] [MYSQL] подключение успешно (1)
+[16:50:57] LoadBankFrac
+[16:50:57] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[16:50:57] # Copyright © 2012-2016 By Ilya. #
+[16:50:57] Number of vehicle models: 22
+[16:50:58] LoadProperty[ Загрузка ... ] Потрачено: 424ms | Загружено: 722 домов
+[16:50:58] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[16:50:58] LoadBizz[ Загрузка ... ] Потрачено: 31ms | Загружено: 66 бизнесов
+[16:50:58] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[16:50:58] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[16:50:58] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[16:50:58] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[16:50:58] LoadGarages[ Загрузка ... ] Потрачено: 56ms | Загружено: 157 гаражей
+[16:50:58] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[16:50:58] maxaccs = 961
+[16:50:58] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[16:50:58] Система мебели: Загружено 2335 мебели!
+[16:51:00] SaveAutoFunc. Потрачено: 2274ms
+[16:51:00] LoadAutoFunc[ Загрузка ... ] Потрачено: 2471ms | Загружено: 0 транспорта
+[16:51:00] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[16:51:00] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[16:51:01] LoadZas[ Загрузка ... ] Потрачено: 120ms | Загружено: 5 АЗС
+[16:51:01] Система объектов: Загружено 51 объектов!
+[16:51:01] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:52:00] filterscripts = ""  (string)
+[16:52:00] 
+[16:52:00] Server Plugins
+[16:52:00] --------------
+[16:52:00]  Loading plugin: gvar
+[16:52:00] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[16:52:00]   Loaded.
+[16:52:00]  Loading plugin: mysql
+[16:52:00]  >> plugin.mysql: running on 1 thread.
+[16:52:00]  >> plugin.mysql: R31 successfully loaded.
+[16:52:00]   Loaded.
+[16:52:00]  Loading plugin: sscanf
+[16:52:00] 
+
+[16:52:00]  ===============================
+
+[16:52:00]       sscanf plugin loaded.     
+
+[16:52:00]    (c) 2009 Alex "Y_Less" Cole
+
+[16:52:00]    0.3d-R2 500 Players "dnee"
+
+[16:52:00]  ===============================
+
+[16:52:00]   Loaded.
+[16:52:00]  Loading plugin: streamer
+[16:52:00] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[16:52:00]   Loaded.
+[16:52:00]  Loaded 4 plugins.
+
+[16:52:00] 
+[16:52:00] Filterscripts
+[16:52:00] ---------------
+[16:52:00]   Loaded 0 filterscripts.
+
+[16:52:00]  
+[16:52:00]  
+[16:52:00]  
+[16:52:00]  ======================================= 
+[16:52:00]  |                                     | 
+[16:52:00]  |        YSI version 3.09.0684        | 
+[16:52:00]  |        By Alex "Y_Less" Cole        | 
+[16:52:00]  |                                     | 
+[16:52:00]  ======================================= 
+[16:52:00]  
+[16:52:00]  
+[16:52:00]  
+[16:52:00] Серверная погода Сонячно - 0
+[16:52:00] [MYSQL] подключение успешно (1)
+[16:52:00] LoadBankFrac
+[16:52:00] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[16:52:00] # Copyright © 2012-2016 By Ilya. #
+[16:52:00] Number of vehicle models: 22
+[16:52:00] LoadProperty[ Загрузка ... ] Потрачено: 292ms | Загружено: 722 домов
+[16:52:00] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[16:52:00] LoadBizz[ Загрузка ... ] Потрачено: 30ms | Загружено: 66 бизнесов
+[16:52:00] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[16:52:00] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[16:52:00] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[16:52:00] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[16:52:00] LoadGarages[ Загрузка ... ] Потрачено: 56ms | Загружено: 157 гаражей
+[16:52:00] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[16:52:00] maxaccs = 961
+[16:52:00] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[16:52:00] Система мебели: Загружено 2335 мебели!
+[16:52:05] SaveAutoFunc. Потрачено: 4393ms
+[16:52:05] LoadAutoFunc[ Загрузка ... ] Потрачено: 4542ms | Загружено: 0 транспорта
+[16:52:05] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[16:52:05] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[16:52:05] LoadZas[ Загрузка ... ] Потрачено: 145ms | Загружено: 5 АЗС
+[16:52:05] Система объектов: Загружено 51 объектов!
+[16:52:05] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[16:54:22] [connection] 127.0.0.1:60163 requests connection cookie.
+[16:54:23] [connection] incoming connection: 127.0.0.1:60163 id: 0
+[16:54:23] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[16:54:23] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[17:08:02] SaveAutoFunc. Потрачено: 15943ms
+[17:08:02] [part] Arthur_Houston has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:21:45] filterscripts = ""  (string)
+[17:21:45] 
+[17:21:45] Server Plugins
+[17:21:45] --------------
+[17:21:45]  Loading plugin: gvar
+[17:21:45] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[17:21:45]   Loaded.
+[17:21:45]  Loading plugin: mysql
+[17:21:45]  >> plugin.mysql: running on 1 thread.
+[17:21:45]  >> plugin.mysql: R31 successfully loaded.
+[17:21:45]   Loaded.
+[17:21:45]  Loading plugin: sscanf
+[17:21:45] 
+
+[17:21:45]  ===============================
+
+[17:21:45]       sscanf plugin loaded.     
+
+[17:21:45]    (c) 2009 Alex "Y_Less" Cole
+
+[17:21:45]    0.3d-R2 500 Players "dnee"
+
+[17:21:45]  ===============================
+
+[17:21:45]   Loaded.
+[17:21:45]  Loading plugin: streamer
+[17:21:46] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[17:21:46]   Loaded.
+[17:21:46]  Loaded 4 plugins.
+
+[17:21:46] 
+[17:21:46] Filterscripts
+[17:21:46] ---------------
+[17:21:46]   Loaded 0 filterscripts.
+
+[17:21:46]  
+[17:21:46]  
+[17:21:46]  
+[17:21:46]  ======================================= 
+[17:21:46]  |                                     | 
+[17:21:46]  |        YSI version 3.09.0684        | 
+[17:21:46]  |        By Alex "Y_Less" Cole        | 
+[17:21:46]  |                                     | 
+[17:21:46]  ======================================= 
+[17:21:46]  
+[17:21:46]  
+[17:21:46]  
+[17:21:46] Серверная погода Сонячно - 0
+[17:21:46] [MYSQL] подключение успешно (1)
+[17:21:46] LoadBankFrac
+[17:21:46] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[17:21:46] # Copyright © 2012-2016 By Ilya. #
+[17:21:46] Number of vehicle models: 22
+[17:21:46] LoadProperty[ Загрузка ... ] Потрачено: 420ms | Загружено: 722 домов
+[17:21:46] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[17:21:46] LoadBizz[ Загрузка ... ] Потрачено: 40ms | Загружено: 66 бизнесов
+[17:21:46] LoadPodezd[ Загрузка ... ] Потрачено: 12ms | Загружено: 63 подъездов
+[17:21:46] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 25ms
+[17:21:46] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[17:21:46] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[17:21:47] LoadGarages[ Загрузка ... ] Потрачено: 85ms | Загружено: 157 гаражей
+[17:21:47] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[17:21:47] maxaccs = 961
+[17:21:47] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[17:21:47] Система мебели: Загружено 2335 мебели!
+[17:22:08] SaveAutoFunc. Потрачено: 20731ms
+[17:22:08] LoadAutoFunc[ Загрузка ... ] Потрачено: 20976ms | Загружено: 0 транспорта
+[17:22:08] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[17:22:08] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[17:22:08] LoadZas[ Загрузка ... ] Потрачено: 493ms | Загружено: 5 АЗС
+[17:22:08] Система объектов: Загружено 51 объектов!
+[17:22:08] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[17:23:17] [connection] 127.0.0.1:54813 requests connection cookie.
+[17:23:18] [connection] incoming connection: 127.0.0.1:54813 id: 0
+[17:23:18] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[17:23:18] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[17:41:30] SaveAutoFunc. Потрачено: 8ms
+[17:41:30] [part] Arthur_Houston has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:53:42] filterscripts = ""  (string)
+[19:53:42] 
+[19:53:42] Server Plugins
+[19:53:42] --------------
+[19:53:42]  Loading plugin: gvar
+[19:53:42] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:53:42]   Loaded.
+[19:53:42]  Loading plugin: mysql
+[19:53:42]  >> plugin.mysql: running on 1 thread.
+[19:53:42]  >> plugin.mysql: R31 successfully loaded.
+[19:53:42]   Loaded.
+[19:53:42]  Loading plugin: sscanf
+[19:53:42] 
+
+[19:53:42]  ===============================
+
+[19:53:42]       sscanf plugin loaded.     
+
+[19:53:42]    (c) 2009 Alex "Y_Less" Cole
+
+[19:53:42]    0.3d-R2 500 Players "dnee"
+
+[19:53:42]  ===============================
+
+[19:53:42]   Loaded.
+[19:53:42]  Loading plugin: streamer
+[19:53:42] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[19:53:42]   Loaded.
+[19:53:42]  Loaded 4 plugins.
+
+[19:53:42] 
+[19:53:42] Filterscripts
+[19:53:42] ---------------
+[19:53:42]   Loaded 0 filterscripts.
+
+[19:53:42]  
+[19:53:42]  
+[19:53:42]  
+[19:53:42]  ======================================= 
+[19:53:42]  |                                     | 
+[19:53:42]  |        YSI version 3.09.0684        | 
+[19:53:42]  |        By Alex "Y_Less" Cole        | 
+[19:53:42]  |                                     | 
+[19:53:42]  ======================================= 
+[19:53:42]  
+[19:53:42]  
+[19:53:42]  
+[19:53:42] Серверная погода Сонячно - 0
+[19:53:42] [MYSQL] подключение успешно (1)
+[19:53:42] LoadBankFrac
+[19:53:42] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[19:53:42] # Copyright © 2012-2016 By Ilya. #
+[19:53:42] Number of vehicle models: 22
+[19:53:45] LoadProperty[ Загрузка ... ] Потрачено: 2419ms | Загружено: 722 домов
+[19:53:45] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[19:53:45] LoadBizz[ Загрузка ... ] Потрачено: 71ms | Загружено: 66 бизнесов
+[19:53:45] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[19:53:45] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[19:53:45] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[19:53:45] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[19:53:45] LoadGarages[ Загрузка ... ] Потрачено: 59ms | Загружено: 157 гаражей
+[19:53:45] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[19:53:45] maxaccs = 961
+[19:53:45] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[19:53:45] Система мебели: Загружено 2335 мебели!
+[19:54:06] SaveAutoFunc. Потрачено: 20315ms
+[19:54:06] LoadAutoFunc[ Загрузка ... ] Потрачено: 20475ms | Загружено: 0 транспорта
+[19:54:06] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[19:54:06] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[19:54:06] LoadZas[ Загрузка ... ] Потрачено: 128ms | Загружено: 5 АЗС
+[19:54:06] Система объектов: Загружено 51 объектов!
+[19:54:06] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[19:55:28] [connection] 127.0.0.1:64642 requests connection cookie.
+[19:55:29] [connection] incoming connection: 127.0.0.1:64642 id: 0
+[19:55:29] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[19:55:30] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:12:08] filterscripts = ""  (string)
+[20:12:08] 
+[20:12:08] Server Plugins
+[20:12:08] --------------
+[20:12:08]  Loading plugin: gvar
+[20:12:08] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:12:08]   Loaded.
+[20:12:08]  Loading plugin: mysql
+[20:12:08]  >> plugin.mysql: running on 1 thread.
+[20:12:08]  >> plugin.mysql: R31 successfully loaded.
+[20:12:08]   Loaded.
+[20:12:08]  Loading plugin: sscanf
+[20:12:08] 
+
+[20:12:08]  ===============================
+
+[20:12:08]       sscanf plugin loaded.     
+
+[20:12:08]    (c) 2009 Alex "Y_Less" Cole
+
+[20:12:08]    0.3d-R2 500 Players "dnee"
+
+[20:12:08]  ===============================
+
+[20:12:08]   Loaded.
+[20:12:08]  Loading plugin: streamer
+[20:12:08] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:12:08]   Loaded.
+[20:12:08]  Loaded 4 plugins.
+
+[20:12:08] 
+[20:12:08] Filterscripts
+[20:12:08] ---------------
+[20:12:08]   Loaded 0 filterscripts.
+
+[20:12:08]  
+[20:12:08]  
+[20:12:08]  
+[20:12:08]  ======================================= 
+[20:12:08]  |                                     | 
+[20:12:08]  |        YSI version 3.09.0684        | 
+[20:12:08]  |        By Alex "Y_Less" Cole        | 
+[20:12:08]  |                                     | 
+[20:12:08]  ======================================= 
+[20:12:08]  
+[20:12:08]  
+[20:12:08]  
+[20:12:08] Серверная погода Сонячно - 0
+[20:12:08] [MYSQL] подключение успешно (1)
+[20:12:08] LoadBankFrac
+[20:12:09] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[20:12:09] # Copyright © 2012-2016 By Ilya. #
+[20:12:09] Number of vehicle models: 22
+[20:12:09] LoadProperty[ Загрузка ... ] Потрачено: 493ms | Загружено: 722 домов
+[20:12:09] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[20:12:09] LoadBizz[ Загрузка ... ] Потрачено: 34ms | Загружено: 66 бизнесов
+[20:12:09] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[20:12:09] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[20:12:09] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[20:12:09] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[20:12:09] LoadGarages[ Загрузка ... ] Потрачено: 59ms | Загружено: 157 гаражей
+[20:12:09] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[20:12:09] maxaccs = 961
+[20:12:09] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[20:12:09] Система мебели: Загружено 2335 мебели!
+[20:12:25] SaveAutoFunc. Потрачено: 15133ms
+[20:12:25] LoadAutoFunc[ Загрузка ... ] Потрачено: 15301ms | Загружено: 0 транспорта
+[20:12:25] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[20:12:25] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[20:12:25] LoadZas[ Загрузка ... ] Потрачено: 170ms | Загружено: 5 АЗС
+[20:12:25] Система объектов: Загружено 51 объектов!
+[20:12:25] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[20:13:40] [connection] 127.0.0.1:57321 requests connection cookie.
+[20:13:41] [connection] incoming connection: 127.0.0.1:57321 id: 0
+[20:13:41] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[20:13:42] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[20:19:59] Query: INSERT INTO `giveitemlog` (`AX`,`Name`,`TargetName`,`Item`,`Kolvo`,`ItemName`,`Date`) VALUES ('Выкинул','Arthur_Houston', 'NONE', '1','1','Комп'ютер',CURRENT_TIMESTAMP);, callback: , connectionhandle: 1, error:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ютер',CURRENT_TIMESTAMP)' at line 1
+[20:20:06] Query: INSERT INTO `giveitemlog` (`AX`,`Name`,`TargetName`,`Item`,`Kolvo`,`ItemName`,`Date`) VALUES ('Подобрал','Arthur_Houston', 'NONE', '1','1','Комп'ютер',CURRENT_TIMESTAMP);, callback: , connectionhandle: 1, error:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ютер',CURRENT_TIMESTAMP)' at line 1
+[20:37:55] SaveAutoFunc. Потрачено: 11ms
+[20:37:55] [part] Arthur_Houston has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:49:42] filterscripts = ""  (string)
+[20:49:42] 
+[20:49:42] Server Plugins
+[20:49:42] --------------
+[20:49:42]  Loading plugin: gvar
+[20:49:42] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:49:42]   Loaded.
+[20:49:42]  Loading plugin: mysql
+[20:49:42]  >> plugin.mysql: running on 1 thread.
+[20:49:42]  >> plugin.mysql: R31 successfully loaded.
+[20:49:42]   Loaded.
+[20:49:42]  Loading plugin: sscanf
+[20:49:42] 
+
+[20:49:42]  ===============================
+
+[20:49:42]       sscanf plugin loaded.     
+
+[20:49:42]    (c) 2009 Alex "Y_Less" Cole
+
+[20:49:42]    0.3d-R2 500 Players "dnee"
+
+[20:49:42]  ===============================
+
+[20:49:42]   Loaded.
+[20:49:42]  Loading plugin: streamer
+[20:49:42] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:49:42]   Loaded.
+[20:49:42]  Loaded 4 plugins.
+
+[20:49:42] 
+[20:49:42] Filterscripts
+[20:49:42] ---------------
+[20:49:42]   Loaded 0 filterscripts.
+
+[20:49:42]  
+[20:49:42]  
+[20:49:42]  
+[20:49:42]  ======================================= 
+[20:49:42]  |                                     | 
+[20:49:42]  |        YSI version 3.09.0684        | 
+[20:49:42]  |        By Alex "Y_Less" Cole        | 
+[20:49:42]  |                                     | 
+[20:49:42]  ======================================= 
+[20:49:42]  
+[20:49:42]  
+[20:49:42]  
+[20:49:42] Серверная погода Сонячно - 0
+[20:49:42] [MYSQL] подключение успешно (1)
+[20:49:42] LoadBankFrac
+[20:49:42] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[20:49:42] # Copyright © 2012-2016 By Ilya. #
+[20:49:42] Number of vehicle models: 22
+[20:49:43] LoadProperty[ Загрузка ... ] Потрачено: 598ms | Загружено: 722 домов
+[20:49:43] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[20:49:43] LoadBizz[ Загрузка ... ] Потрачено: 47ms | Загружено: 66 бизнесов
+[20:49:43] LoadPodezd[ Загрузка ... ] Потрачено: 12ms | Загружено: 63 подъездов
+[20:49:43] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 26ms
+[20:49:43] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[20:49:43] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[20:49:43] LoadGarages[ Загрузка ... ] Потрачено: 67ms | Загружено: 157 гаражей
+[20:49:43] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[20:49:43] maxaccs = 961
+[20:49:43] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[20:49:43] Система мебели: Загружено 2335 мебели!
+[20:50:05] SaveAutoFunc. Потрачено: 21483ms
+[20:50:05] LoadAutoFunc[ Загрузка ... ] Потрачено: 21652ms | Загружено: 0 транспорта
+[20:50:05] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[20:50:05] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[20:50:05] LoadZas[ Загрузка ... ] Потрачено: 195ms | Загружено: 5 АЗС
+[20:50:05] Система объектов: Загружено 51 объектов!
+[20:50:05] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[20:51:15] [connection] 127.0.0.1:62391 requests connection cookie.
+[20:51:16] [connection] incoming connection: 127.0.0.1:62391 id: 0
+[20:51:17] [join] Arthur_Hou has joined the server (0:127.0.0.1)
+[20:51:17] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:57:33] filterscripts = ""  (string)
+[20:57:33] 
+[20:57:33] Server Plugins
+[20:57:33] --------------
+[20:57:33]  Loading plugin: gvar
+[20:57:33] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:57:33]   Loaded.
+[20:57:33]  Loading plugin: mysql
+[20:57:33]  >> plugin.mysql: running on 1 thread.
+[20:57:33]  >> plugin.mysql: R31 successfully loaded.
+[20:57:33]   Loaded.
+[20:57:33]  Loading plugin: sscanf
+[20:57:33] 
+
+[20:57:33]  ===============================
+
+[20:57:33]       sscanf plugin loaded.     
+
+[20:57:33]    (c) 2009 Alex "Y_Less" Cole
+
+[20:57:33]    0.3d-R2 500 Players "dnee"
+
+[20:57:33]  ===============================
+
+[20:57:33]   Loaded.
+[20:57:33]  Loading plugin: streamer
+[20:57:33] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:57:33]   Loaded.
+[20:57:33]  Loaded 4 plugins.
+
+[20:57:33] 
+[20:57:33] Filterscripts
+[20:57:33] ---------------
+[20:57:33]   Loaded 0 filterscripts.
+
+[20:57:33]  
+[20:57:33]  
+[20:57:33]  
+[20:57:33]  ======================================= 
+[20:57:33]  |                                     | 
+[20:57:33]  |        YSI version 3.09.0684        | 
+[20:57:33]  |        By Alex "Y_Less" Cole        | 
+[20:57:33]  |                                     | 
+[20:57:33]  ======================================= 
+[20:57:33]  
+[20:57:33]  
+[20:57:33]  
+[20:57:33] Серверная погода Сонячно - 0
+[20:57:33] [MYSQL] подключение успешно (1)
+[20:57:33] LoadBankFrac
+[20:57:33] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[20:57:33] # Copyright © 2012-2016 By Ilya. #
+[20:57:33] Number of vehicle models: 22
+[20:57:34] LoadProperty[ Загрузка ... ] Потрачено: 318ms | Загружено: 722 домов
+[20:57:34] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[20:57:34] LoadBizz[ Загрузка ... ] Потрачено: 35ms | Загружено: 66 бизнесов
+[20:57:34] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[20:57:34] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[20:57:34] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[20:57:34] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[20:57:34] LoadGarages[ Загрузка ... ] Потрачено: 65ms | Загружено: 157 гаражей
+[20:57:34] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[20:57:34] maxaccs = 961
+[20:57:34] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[20:57:34] Система мебели: Загружено 2335 мебели!
+[20:57:56] SaveAutoFunc. Потрачено: 21763ms
+[20:57:56] LoadAutoFunc[ Загрузка ... ] Потрачено: 21950ms | Загружено: 0 транспорта
+[20:57:56] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[20:57:56] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[20:57:57] LoadZas[ Загрузка ... ] Потрачено: 754ms | Загружено: 5 АЗС
+[20:57:57] Система объектов: Загружено 51 объектов!
+[20:57:57] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[20:59:02] [connection] 127.0.0.1:60832 requests connection cookie.
+[20:59:03] [connection] incoming connection: 127.0.0.1:60832 id: 0
+[20:59:04] [join] Arthur_Hou has joined the server (0:127.0.0.1)
+[20:59:04] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:41] filterscripts = ""  (string)
+[21:34:41] 
+[21:34:41] Server Plugins
+[21:34:41] --------------
+[21:34:41]  Loading plugin: gvar
+[21:34:41] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:34:41]   Loaded.
+[21:34:41]  Loading plugin: mysql
+[21:34:41]  >> plugin.mysql: running on 1 thread.
+[21:34:41]  >> plugin.mysql: R31 successfully loaded.
+[21:34:41]   Loaded.
+[21:34:41]  Loading plugin: sscanf
+[21:34:41] 
+
+[21:34:41]  ===============================
+
+[21:34:41]       sscanf plugin loaded.     
+
+[21:34:41]    (c) 2009 Alex "Y_Less" Cole
+
+[21:34:41]    0.3d-R2 500 Players "dnee"
+
+[21:34:41]  ===============================
+
+[21:34:41]   Loaded.
+[21:34:41]  Loading plugin: streamer
+[21:34:41] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:34:41]   Loaded.
+[21:34:41]  Loaded 4 plugins.
+
+[21:34:41] 
+[21:34:41] Filterscripts
+[21:34:41] ---------------
+[21:34:41]   Loaded 0 filterscripts.
+
+[21:34:41]  
+[21:34:41]  
+[21:34:41]  
+[21:34:41]  ======================================= 
+[21:34:41]  |                                     | 
+[21:34:41]  |        YSI version 3.09.0684        | 
+[21:34:41]  |        By Alex "Y_Less" Cole        | 
+[21:34:41]  |                                     | 
+[21:34:41]  ======================================= 
+[21:34:41]  
+[21:34:41]  
+[21:34:41]  
+[21:34:41] Серверная погода Сонячно - 0
+[21:34:41] [MYSQL] подключение успешно (1)
+[21:34:41] LoadBankFrac
+[21:34:41] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[21:34:41] # Copyright © 2012-2016 By Ilya. #
+[21:34:41] Number of vehicle models: 22
+[21:34:41] LoadProperty[ Загрузка ... ] Потрачено: 320ms | Загружено: 722 домов
+[21:34:41] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[21:34:41] LoadBizz[ Загрузка ... ] Потрачено: 33ms | Загружено: 66 бизнесов
+[21:34:41] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[21:34:42] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[21:34:42] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[21:34:42] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[21:34:42] LoadGarages[ Загрузка ... ] Потрачено: 63ms | Загружено: 157 гаражей
+[21:34:42] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[21:34:42] maxaccs = 961
+[21:34:42] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[21:34:42] Система мебели: Загружено 2335 мебели!
+[21:34:43] SaveAutoFunc. Потрачено: 1505ms
+[21:34:43] LoadAutoFunc[ Загрузка ... ] Потрачено: 1672ms | Загружено: 0 транспорта
+[21:34:43] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[21:34:43] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[21:34:44] LoadZas[ Загрузка ... ] Потрачено: 111ms | Загружено: 5 АЗС
+[21:34:44] Система объектов: Загружено 51 объектов!
+[21:34:44] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[21:36:14] [connection] 127.0.0.1:62653 requests connection cookie.
+[21:36:15] [connection] incoming connection: 127.0.0.1:62653 id: 0
+[21:36:15] [join] Arthur_Hou has joined the server (0:127.0.0.1)
+[21:36:15] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:51:47] filterscripts = ""  (string)
+[22:51:47] 
+[22:51:47] Server Plugins
+[22:51:47] --------------
+[22:51:47]  Loading plugin: gvar
+[22:51:47] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[22:51:47]   Loaded.
+[22:51:47]  Loading plugin: mysql
+[22:51:47]  >> plugin.mysql: running on 1 thread.
+[22:51:47]  >> plugin.mysql: R31 successfully loaded.
+[22:51:47]   Loaded.
+[22:51:47]  Loading plugin: sscanf
+[22:51:47] 
+
+[22:51:47]  ===============================
+
+[22:51:47]       sscanf plugin loaded.     
+
+[22:51:47]    (c) 2009 Alex "Y_Less" Cole
+
+[22:51:47]    0.3d-R2 500 Players "dnee"
+
+[22:51:47]  ===============================
+
+[22:51:47]   Loaded.
+[22:51:47]  Loading plugin: streamer
+[22:51:47] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[22:51:47]   Loaded.
+[22:51:47]  Loaded 4 plugins.
+
+[22:51:47] 
+[22:51:47] Filterscripts
+[22:51:47] ---------------
+[22:51:47]   Loaded 0 filterscripts.
+
+[22:51:48]  
+[22:51:48]  
+[22:51:48]  
+[22:51:48]  ======================================= 
+[22:51:48]  |                                     | 
+[22:51:48]  |        YSI version 3.09.0684        | 
+[22:51:48]  |        By Alex "Y_Less" Cole        | 
+[22:51:48]  |                                     | 
+[22:51:48]  ======================================= 
+[22:51:48]  
+[22:51:48]  
+[22:51:48]  
+[22:51:48] Серверная погода Сонячно - 0
+[22:51:48] [MYSQL] подключение успешно (1)
+[22:51:48] LoadBankFrac
+[22:51:48] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[22:51:48] # Copyright © 2012-2016 By Ilya. #
+[22:51:48] Number of vehicle models: 22
+[22:51:48] LoadProperty[ Загрузка ... ] Потрачено: 325ms | Загружено: 722 домов
+[22:51:48] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[22:51:48] LoadBizz[ Загрузка ... ] Потрачено: 35ms | Загружено: 66 бизнесов
+[22:51:48] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[22:51:48] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[22:51:48] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[22:51:48] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[22:51:48] LoadGarages[ Загрузка ... ] Потрачено: 59ms | Загружено: 157 гаражей
+[22:51:48] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[22:51:48] maxaccs = 961
+[22:51:48] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[22:51:48] Система мебели: Загружено 2335 мебели!
+[22:51:49] SaveAutoFunc. Потрачено: 239ms
+[22:51:49] LoadAutoFunc[ Загрузка ... ] Потрачено: 422ms | Загружено: 0 транспорта
+[22:51:49] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[22:51:49] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[22:51:49] LoadZas[ Загрузка ... ] Потрачено: 34ms | Загружено: 5 АЗС
+[22:51:49] Система объектов: Загружено 51 объектов!
+[22:51:49] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[22:53:21] [connection] 127.0.0.1:53627 requests connection cookie.
+[22:53:22] [connection] incoming connection: 127.0.0.1:53627 id: 0
+[22:53:22] [join] Arthur_Hou has joined the server (0:127.0.0.1)
+[22:53:22] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[22:54:15] SaveAutoFunc. Потрачено: 50ms
+[22:54:15] [part] Bobrik_Stop has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:19:52] filterscripts = ""  (string)
+[11:19:52] 
+[11:19:52] Server Plugins
+[11:19:52] --------------
+[11:19:52]  Loading plugin: gvar
+[11:19:52] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[11:19:52]   Loaded.
+[11:19:52]  Loading plugin: mysql
+[11:19:52]  >> plugin.mysql: running on 1 thread.
+[11:19:52]  >> plugin.mysql: R31 successfully loaded.
+[11:19:52]   Loaded.
+[11:19:52]  Loading plugin: sscanf
+[11:19:52] 
+
+[11:19:52]  ===============================
+
+[11:19:52]       sscanf plugin loaded.     
+
+[11:19:52]    (c) 2009 Alex "Y_Less" Cole
+
+[11:19:52]    0.3d-R2 500 Players "dnee"
+
+[11:19:52]  ===============================
+
+[11:19:52]   Loaded.
+[11:19:52]  Loading plugin: streamer
+[11:19:53] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[11:19:53]   Loaded.
+[11:19:53]  Loaded 4 plugins.
+
+[11:19:53] 
+[11:19:53] Filterscripts
+[11:19:53] ---------------
+[11:19:53]   Loaded 0 filterscripts.
+
+[11:19:53]  
+[11:19:53]  
+[11:19:53]  
+[11:19:53]  ======================================= 
+[11:19:53]  |                                     | 
+[11:19:53]  |        YSI version 3.09.0684        | 
+[11:19:53]  |        By Alex "Y_Less" Cole        | 
+[11:19:53]  |                                     | 
+[11:19:53]  ======================================= 
+[11:19:53]  
+[11:19:53]  
+[11:19:53]  
+[11:19:53] Серверная погода Сонячно - 0
+[11:19:55] [MYSQL] неудалось соединится с базой данных (1)
+[11:19:55] # Copyright © 2012-2016 By Ilya. #
+[11:19:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:34:35] filterscripts = ""  (string)
+[12:34:35] 
+[12:34:35] Server Plugins
+[12:34:35] --------------
+[12:34:35]  Loading plugin: gvar
+[12:34:35] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[12:34:35]   Loaded.
+[12:34:35]  Loading plugin: mysql
+[12:34:35]  >> plugin.mysql: running on 1 thread.
+[12:34:35]  >> plugin.mysql: R31 successfully loaded.
+[12:34:35]   Loaded.
+[12:34:35]  Loading plugin: sscanf
+[12:34:35] 
+
+[12:34:35]  ===============================
+
+[12:34:35]       sscanf plugin loaded.     
+
+[12:34:35]    (c) 2009 Alex "Y_Less" Cole
+
+[12:34:35]    0.3d-R2 500 Players "dnee"
+
+[12:34:35]  ===============================
+
+[12:34:35]   Loaded.
+[12:34:35]  Loading plugin: streamer
+[12:34:35] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[12:34:35]   Loaded.
+[12:34:35]  Loaded 4 plugins.
+
+[12:34:35] 
+[12:34:35] Filterscripts
+[12:34:35] ---------------
+[12:34:35]   Loaded 0 filterscripts.
+
+[12:34:35]  
+[12:34:35]  
+[12:34:35]  
+[12:34:35]  ======================================= 
+[12:34:35]  |                                     | 
+[12:34:35]  |        YSI version 3.09.0684        | 
+[12:34:35]  |        By Alex "Y_Less" Cole        | 
+[12:34:35]  |                                     | 
+[12:34:35]  ======================================= 
+[12:34:35]  
+[12:34:35]  
+[12:34:35]  
+[12:34:35] Серверная погода Сонячно - 0
+[12:34:35] [MYSQL] подключение успешно (1)
+[12:34:35] LoadBankFrac
+[12:34:35] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[12:34:35] # Copyright © 2012-2016 By Ilya. #
+[12:34:35] Number of vehicle models: 22
+[12:34:36] LoadProperty[ Загрузка ... ] Потрачено: 721ms | Загружено: 722 домов
+[12:34:36] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[12:34:36] LoadBizz[ Загрузка ... ] Потрачено: 46ms | Загружено: 66 бизнесов
+[12:34:36] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[12:34:36] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[12:34:36] LoadGatesSystem[ Загрузка ... ] Потрачено: 4ms
+[12:34:36] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[12:34:36] LoadGarages[ Загрузка ... ] Потрачено: 60ms | Загружено: 157 гаражей
+[12:34:36] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[12:34:36] maxaccs = 961
+[12:34:36] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[12:34:36] Система мебели: Загружено 2335 мебели!
+[12:34:43] SaveAutoFunc. Потрачено: 6543ms
+[12:34:43] LoadAutoFunc[ Загрузка ... ] Потрачено: 6694ms | Загружено: 0 транспорта
+[12:34:43] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[12:34:43] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[12:34:43] LoadZas[ Загрузка ... ] Потрачено: 60ms | Загружено: 5 АЗС
+[12:34:43] Система объектов: Загружено 51 объектов!
+[12:34:43] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[12:36:51] [connection] 127.0.0.1:60625 requests connection cookie.
+[12:36:52] [connection] incoming connection: 127.0.0.1:60625 id: 0
+[12:36:52] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[12:36:52] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:56:26] filterscripts = ""  (string)
+[13:56:26] 
+[13:56:26] Server Plugins
+[13:56:26] --------------
+[13:56:26]  Loading plugin: gvar
+[13:56:26] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:56:26]   Loaded.
+[13:56:26]  Loading plugin: mysql
+[13:56:26]  >> plugin.mysql: running on 1 thread.
+[13:56:26]  >> plugin.mysql: R31 successfully loaded.
+[13:56:26]   Loaded.
+[13:56:26]  Loading plugin: sscanf
+[13:56:26] 
+
+[13:56:26]  ===============================
+
+[13:56:26]       sscanf plugin loaded.     
+
+[13:56:26]    (c) 2009 Alex "Y_Less" Cole
+
+[13:56:26]    0.3d-R2 500 Players "dnee"
+
+[13:56:26]  ===============================
+
+[13:56:26]   Loaded.
+[13:56:26]  Loading plugin: streamer
+[13:56:26] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:56:26]   Loaded.
+[13:56:26]  Loaded 4 plugins.
+
+[13:56:26] 
+[13:56:26] Filterscripts
+[13:56:26] ---------------
+[13:56:26]   Loaded 0 filterscripts.
+
+[13:56:26]  
+[13:56:26]  
+[13:56:26]  
+[13:56:26]  ======================================= 
+[13:56:26]  |                                     | 
+[13:56:26]  |        YSI version 3.09.0684        | 
+[13:56:26]  |        By Alex "Y_Less" Cole        | 
+[13:56:26]  |                                     | 
+[13:56:26]  ======================================= 
+[13:56:26]  
+[13:56:26]  
+[13:56:26]  
+[13:56:26] Серверная погода Сонячно - 0
+[13:56:26] [MYSQL] подключение успешно (1)
+[13:56:26] LoadBankFrac
+[13:56:26] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[13:56:26] # Copyright © 2012-2016 By Ilya. #
+[13:56:26] Number of vehicle models: 22
+[13:56:27] LoadProperty[ Загрузка ... ] Потрачено: 377ms | Загружено: 722 домов
+[13:56:27] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[13:56:27] LoadBizz[ Загрузка ... ] Потрачено: 30ms | Загружено: 66 бизнесов
+[13:56:27] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[13:56:27] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[13:56:27] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[13:56:27] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[13:56:27] LoadGarages[ Загрузка ... ] Потрачено: 55ms | Загружено: 157 гаражей
+[13:56:27] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[13:56:27] maxaccs = 961
+[13:56:27] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[13:56:27] Система мебели: Загружено 2335 мебели!
+[13:56:55] SaveAutoFunc. Потрачено: 28011ms
+[13:56:55] LoadAutoFunc[ Загрузка ... ] Потрачено: 28161ms | Загружено: 0 транспорта
+[13:56:55] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[13:56:55] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[13:56:55] LoadZas[ Загрузка ... ] Потрачено: 46ms | Загружено: 5 АЗС
+[13:56:55] Система объектов: Загружено 51 объектов!
+[13:56:55] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[13:57:56] [connection] 127.0.0.1:65090 requests connection cookie.
+[13:57:57] [connection] incoming connection: 127.0.0.1:65090 id: 0
+[13:57:58] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:57:58] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:37:28] filterscripts = ""  (string)
+[14:37:28] 
+[14:37:28] Server Plugins
+[14:37:28] --------------
+[14:37:28]  Loading plugin: gvar
+[14:37:28] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:37:28]   Loaded.
+[14:37:28]  Loading plugin: mysql
+[14:37:28]  >> plugin.mysql: running on 1 thread.
+[14:37:28]  >> plugin.mysql: R31 successfully loaded.
+[14:37:28]   Loaded.
+[14:37:28]  Loading plugin: sscanf
+[14:37:28] 
+
+[14:37:28]  ===============================
+
+[14:37:28]       sscanf plugin loaded.     
+
+[14:37:28]    (c) 2009 Alex "Y_Less" Cole
+
+[14:37:28]    0.3d-R2 500 Players "dnee"
+
+[14:37:28]  ===============================
+
+[14:37:28]   Loaded.
+[14:37:28]  Loading plugin: streamer
+[14:37:28] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:37:28]   Loaded.
+[14:37:28]  Loaded 4 plugins.
+
+[14:37:28] 
+[14:37:28] Filterscripts
+[14:37:28] ---------------
+[14:37:28]   Loaded 0 filterscripts.
+
+[14:37:28]  
+[14:37:28]  
+[14:37:28]  
+[14:37:28]  ======================================= 
+[14:37:28]  |                                     | 
+[14:37:28]  |        YSI version 3.09.0684        | 
+[14:37:28]  |        By Alex "Y_Less" Cole        | 
+[14:37:28]  |                                     | 
+[14:37:28]  ======================================= 
+[14:37:28]  
+[14:37:28]  
+[14:37:28]  
+[14:37:28] Серверная погода Сонячно - 0
+[14:37:28] [MYSQL] подключение успешно (1)
+[14:37:28] LoadBankFrac
+[14:37:28] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[14:37:29] # Copyright © 2012-2016 By Ilya. #
+[14:37:29] Number of vehicle models: 22
+[14:37:29] LoadProperty[ Загрузка ... ] Потрачено: 295ms | Загружено: 722 домов
+[14:37:29] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:37:29] LoadBizz[ Загрузка ... ] Потрачено: 30ms | Загружено: 66 бизнесов
+[14:37:29] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[14:37:29] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[14:37:29] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:37:29] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:37:29] LoadGarages[ Загрузка ... ] Потрачено: 58ms | Загружено: 157 гаражей
+[14:37:29] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:37:29] maxaccs = 961
+[14:37:29] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[14:37:29] Система мебели: Загружено 2335 мебели!
+[14:37:55] SaveAutoFunc. Потрачено: 25855ms
+[14:37:55] LoadAutoFunc[ Загрузка ... ] Потрачено: 26011ms | Загружено: 0 транспорта
+[14:37:55] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[14:37:55] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[14:37:55] LoadZas[ Загрузка ... ] Потрачено: 179ms | Загружено: 5 АЗС
+[14:37:55] Система объектов: Загружено 51 объектов!
+[14:37:55] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[14:38:59] [connection] 127.0.0.1:60844 requests connection cookie.
+[14:39:00] [connection] incoming connection: 127.0.0.1:60844 id: 0
+[14:39:00] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:39:00] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:42:02] filterscripts = ""  (string)
+[14:42:02] 
+[14:42:02] Server Plugins
+[14:42:02] --------------
+[14:42:02]  Loading plugin: gvar
+[14:42:02] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:42:02]   Loaded.
+[14:42:02]  Loading plugin: mysql
+[14:42:02]  >> plugin.mysql: running on 1 thread.
+[14:42:02]  >> plugin.mysql: R31 successfully loaded.
+[14:42:02]   Loaded.
+[14:42:02]  Loading plugin: sscanf
+[14:42:02] 
+
+[14:42:02]  ===============================
+
+[14:42:02]       sscanf plugin loaded.     
+
+[14:42:02]    (c) 2009 Alex "Y_Less" Cole
+
+[14:42:02]    0.3d-R2 500 Players "dnee"
+
+[14:42:02]  ===============================
+
+[14:42:02]   Loaded.
+[14:42:02]  Loading plugin: streamer
+[14:42:02] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:42:02]   Loaded.
+[14:42:02]  Loaded 4 plugins.
+
+[14:42:02] 
+[14:42:02] Filterscripts
+[14:42:02] ---------------
+[14:42:02]   Loaded 0 filterscripts.
+
+[14:42:03]  
+[14:42:03]  
+[14:42:03]  
+[14:42:03]  ======================================= 
+[14:42:03]  |                                     | 
+[14:42:03]  |        YSI version 3.09.0684        | 
+[14:42:03]  |        By Alex "Y_Less" Cole        | 
+[14:42:03]  |                                     | 
+[14:42:03]  ======================================= 
+[14:42:03]  
+[14:42:03]  
+[14:42:03]  
+[14:42:03] Серверная погода Сонячно - 0
+[14:42:03] [MYSQL] подключение успешно (1)
+[14:42:03] LoadBankFrac
+[14:42:03] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[14:42:03] # Copyright © 2012-2016 By Ilya. #
+[14:42:03] Number of vehicle models: 22
+[14:42:03] LoadProperty[ Загрузка ... ] Потрачено: 360ms | Загружено: 722 домов
+[14:42:03] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:42:03] LoadBizz[ Загрузка ... ] Потрачено: 31ms | Загружено: 66 бизнесов
+[14:42:03] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[14:42:03] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[14:42:03] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:42:03] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:42:03] LoadGarages[ Загрузка ... ] Потрачено: 74ms | Загружено: 157 гаражей
+[14:42:03] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:42:03] maxaccs = 961
+[14:42:03] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[14:42:03] Система мебели: Загружено 2335 мебели!
+[14:42:33] SaveAutoFunc. Потрачено: 29685ms
+[14:42:33] LoadAutoFunc[ Загрузка ... ] Потрачено: 29855ms | Загружено: 0 транспорта
+[14:42:33] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[14:42:33] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[14:42:33] LoadZas[ Загрузка ... ] Потрачено: 121ms | Загружено: 5 АЗС
+[14:42:33] Система объектов: Загружено 51 объектов!
+[14:42:33] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[14:43:32] [connection] 127.0.0.1:54436 requests connection cookie.
+[14:43:33] [connection] incoming connection: 127.0.0.1:54436 id: 0
+[14:43:33] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:43:34] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:45:36] filterscripts = ""  (string)
+[14:45:36] 
+[14:45:36] Server Plugins
+[14:45:36] --------------
+[14:45:36]  Loading plugin: gvar
+[14:45:36] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:45:36]   Loaded.
+[14:45:36]  Loading plugin: mysql
+[14:45:36]  >> plugin.mysql: running on 1 thread.
+[14:45:36]  >> plugin.mysql: R31 successfully loaded.
+[14:45:36]   Loaded.
+[14:45:36]  Loading plugin: sscanf
+[14:45:36] 
+
+[14:45:36]  ===============================
+
+[14:45:36]       sscanf plugin loaded.     
+
+[14:45:36]    (c) 2009 Alex "Y_Less" Cole
+
+[14:45:36]    0.3d-R2 500 Players "dnee"
+
+[14:45:36]  ===============================
+
+[14:45:36]   Loaded.
+[14:45:36]  Loading plugin: streamer
+[14:45:36] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:45:36]   Loaded.
+[14:45:36]  Loaded 4 plugins.
+
+[14:45:36] 
+[14:45:36] Filterscripts
+[14:45:36] ---------------
+[14:45:36]   Loaded 0 filterscripts.
+
+[14:45:36]  
+[14:45:36]  
+[14:45:36]  
+[14:45:36]  ======================================= 
+[14:45:36]  |                                     | 
+[14:45:36]  |        YSI version 3.09.0684        | 
+[14:45:36]  |        By Alex "Y_Less" Cole        | 
+[14:45:36]  |                                     | 
+[14:45:36]  ======================================= 
+[14:45:36]  
+[14:45:36]  
+[14:45:37]  
+[14:45:37] Серверная погода Сонячно - 0
+[14:45:37] [MYSQL] подключение успешно (1)
+[14:45:37] LoadBankFrac
+[14:45:37] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 2ms
+[14:45:37] # Copyright © 2012-2016 By Ilya. #
+[14:45:37] Number of vehicle models: 22
+[14:45:37] LoadProperty[ Загрузка ... ] Потрачено: 297ms | Загружено: 722 домов
+[14:45:37] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:45:37] LoadBizz[ Загрузка ... ] Потрачено: 31ms | Загружено: 66 бизнесов
+[14:45:37] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[14:45:37] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[14:45:37] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:45:37] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:45:37] LoadGarages[ Загрузка ... ] Потрачено: 55ms | Загружено: 157 гаражей
+[14:45:37] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:45:37] maxaccs = 961
+[14:45:37] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[14:45:37] Система мебели: Загружено 2335 мебели!
+[14:46:06] SaveAutoFunc. Потрачено: 28873ms
+[14:46:06] LoadAutoFunc[ Загрузка ... ] Потрачено: 29024ms | Загружено: 0 транспорта
+[14:46:06] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[14:46:06] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[14:46:06] LoadZas[ Загрузка ... ] Потрачено: 31ms | Загружено: 5 АЗС
+[14:46:06] Система объектов: Загружено 51 объектов!
+[14:46:06] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[14:47:06] [connection] 127.0.0.1:55071 requests connection cookie.
+[14:47:07] [connection] incoming connection: 127.0.0.1:55071 id: 0
+[14:47:07] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:47:08] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:53:49] filterscripts = ""  (string)
+[14:53:49] 
+[14:53:49] Server Plugins
+[14:53:49] --------------
+[14:53:49]  Loading plugin: gvar
+[14:53:49] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:53:49]   Loaded.
+[14:53:49]  Loading plugin: mysql
+[14:53:49]  >> plugin.mysql: running on 1 thread.
+[14:53:49]  >> plugin.mysql: R31 successfully loaded.
+[14:53:49]   Loaded.
+[14:53:49]  Loading plugin: sscanf
+[14:53:49] 
+
+[14:53:49]  ===============================
+
+[14:53:49]       sscanf plugin loaded.     
+
+[14:53:49]    (c) 2009 Alex "Y_Less" Cole
+
+[14:53:49]    0.3d-R2 500 Players "dnee"
+
+[14:53:49]  ===============================
+
+[14:53:49]   Loaded.
+[14:53:49]  Loading plugin: streamer
+[14:53:49] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:53:49]   Loaded.
+[14:53:49]  Loaded 4 plugins.
+
+[14:53:49] 
+[14:53:49] Filterscripts
+[14:53:49] ---------------
+[14:53:49]   Loaded 0 filterscripts.
+
+[14:53:50]  
+[14:53:50]  
+[14:53:50]  
+[14:53:50]  ======================================= 
+[14:53:50]  |                                     | 
+[14:53:50]  |        YSI version 3.09.0684        | 
+[14:53:50]  |        By Alex "Y_Less" Cole        | 
+[14:53:50]  |                                     | 
+[14:53:50]  ======================================= 
+[14:53:50]  
+[14:53:50]  
+[14:53:50]  
+[14:53:50] Серверная погода Сонячно - 0
+[14:53:50] [MYSQL] подключение успешно (1)
+[14:53:50] LoadBankFrac
+[14:53:50] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[14:53:50] # Copyright © 2012-2016 By Ilya. #
+[14:53:50] Number of vehicle models: 22
+[14:53:50] LoadProperty[ Загрузка ... ] Потрачено: 292ms | Загружено: 722 домов
+[14:53:50] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:53:50] LoadBizz[ Загрузка ... ] Потрачено: 34ms | Загружено: 66 бизнесов
+[14:53:50] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[14:53:50] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[14:53:50] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:53:50] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:53:50] LoadGarages[ Загрузка ... ] Потрачено: 55ms | Загружено: 157 гаражей
+[14:53:50] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:53:50] maxaccs = 961
+[14:53:50] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[14:53:50] Система мебели: Загружено 2335 мебели!
+[14:53:52] SaveAutoFunc. Потрачено: 1835ms
+[14:53:52] LoadAutoFunc[ Загрузка ... ] Потрачено: 1987ms | Загружено: 0 транспорта
+[14:53:52] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[14:53:52] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[14:53:52] LoadZas[ Загрузка ... ] Потрачено: 89ms | Загружено: 5 АЗС
+[14:53:52] Система объектов: Загружено 51 объектов!
+[14:53:52] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[14:55:20] [connection] 127.0.0.1:60871 requests connection cookie.
+[14:55:21] [connection] incoming connection: 127.0.0.1:60871 id: 0
+[14:55:21] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:55:21] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:02:23] filterscripts = ""  (string)
+[17:02:23] 
+[17:02:23] Server Plugins
+[17:02:23] --------------
+[17:02:23]  Loading plugin: gvar
+[17:02:23] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[17:02:23]   Loaded.
+[17:02:23]  Loading plugin: mysql
+[17:02:23]  >> plugin.mysql: running on 1 thread.
+[17:02:23]  >> plugin.mysql: R31 successfully loaded.
+[17:02:23]   Loaded.
+[17:02:23]  Loading plugin: sscanf
+[17:02:23] 
+
+[17:02:23]  ===============================
+
+[17:02:23]       sscanf plugin loaded.     
+
+[17:02:23]    (c) 2009 Alex "Y_Less" Cole
+
+[17:02:23]    0.3d-R2 500 Players "dnee"
+
+[17:02:23]  ===============================
+
+[17:02:23]   Loaded.
+[17:02:23]  Loading plugin: streamer
+[17:02:23] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[17:02:23]   Loaded.
+[17:02:23]  Loaded 4 plugins.
+
+[17:02:23] 
+[17:02:23] Filterscripts
+[17:02:23] ---------------
+[17:02:23]   Loaded 0 filterscripts.
+
+[17:02:23]  
+[17:02:23]  
+[17:02:23]  
+[17:02:23]  ======================================= 
+[17:02:23]  |                                     | 
+[17:02:23]  |        YSI version 3.09.0684        | 
+[17:02:23]  |        By Alex "Y_Less" Cole        | 
+[17:02:23]  |                                     | 
+[17:02:23]  ======================================= 
+[17:02:23]  
+[17:02:23]  
+[17:02:23]  
+[17:02:23] Серверная погода Сонячно - 0
+[17:02:23] [MYSQL] подключение успешно (1)
+[17:02:23] LoadBankFrac
+[17:02:23] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[17:02:23] # Copyright © 2012-2016 By Ilya. #
+[17:02:23] Number of vehicle models: 22
+[17:02:23] LoadProperty[ Загрузка ... ] Потрачено: 279ms | Загружено: 722 домов
+[17:02:23] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[17:02:23] LoadBizz[ Загрузка ... ] Потрачено: 30ms | Загружено: 66 бизнесов
+[17:02:23] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[17:02:23] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[17:02:23] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[17:02:23] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[17:02:23] LoadGarages[ Загрузка ... ] Потрачено: 57ms | Загружено: 157 гаражей
+[17:02:23] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[17:02:23] maxaccs = 961
+[17:02:23] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[17:02:24] Система мебели: Загружено 2335 мебели!
+[17:02:28] SaveAutoFunc. Потрачено: 4592ms
+[17:02:28] LoadAutoFunc[ Загрузка ... ] Потрачено: 4746ms | Загружено: 0 транспорта
+[17:02:28] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[17:02:28] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[17:02:28] LoadZas[ Загрузка ... ] Потрачено: 1ms | Загружено: 5 АЗС
+[17:02:28] Система объектов: Загружено 51 объектов!
+[17:02:28] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[17:05:45] [connection] 127.0.0.1:63493 requests connection cookie.
+[17:05:46] [connection] incoming connection: 127.0.0.1:63493 id: 0
+[17:05:46] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[17:05:47] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[17:32:26] Серверная погода Сонячно - 2
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:00:59] filterscripts = ""  (string)
+[18:00:59] 
+[18:00:59] Server Plugins
+[18:00:59] --------------
+[18:00:59]  Loading plugin: gvar
+[18:00:59] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:00:59]   Loaded.
+[18:00:59]  Loading plugin: mysql
+[18:00:59]  >> plugin.mysql: running on 1 thread.
+[18:00:59]  >> plugin.mysql: R31 successfully loaded.
+[18:00:59]   Loaded.
+[18:00:59]  Loading plugin: sscanf
+[18:00:59] 
+
+[18:00:59]  ===============================
+
+[18:00:59]       sscanf plugin loaded.     
+
+[18:00:59]    (c) 2009 Alex "Y_Less" Cole
+
+[18:00:59]    0.3d-R2 500 Players "dnee"
+
+[18:00:59]  ===============================
+
+[18:00:59]   Loaded.
+[18:00:59]  Loading plugin: streamer
+[18:00:59] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:00:59]   Loaded.
+[18:00:59]  Loaded 4 plugins.
+
+[18:01:00] 
+[18:01:00] Filterscripts
+[18:01:00] ---------------
+[18:01:00]   Loaded 0 filterscripts.
+
+[18:01:00]  
+[18:01:00]  
+[18:01:00]  
+[18:01:00]  ======================================= 
+[18:01:00]  |                                     | 
+[18:01:00]  |        YSI version 3.09.0684        | 
+[18:01:00]  |        By Alex "Y_Less" Cole        | 
+[18:01:00]  |                                     | 
+[18:01:00]  ======================================= 
+[18:01:00]  
+[18:01:00]  
+[18:01:00]  
+[18:01:00] Серверная погода Сонячно - 0
+[18:01:00] [MYSQL] подключение успешно (1)
+[18:01:00] LoadBankFrac
+[18:01:00] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[18:01:00] # Copyright © 2012-2016 By Ilya. #
+[18:01:00] Number of vehicle models: 22
+[18:01:01] LoadProperty[ Загрузка ... ] Потрачено: 378ms | Загружено: 722 домов
+[18:01:01] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[18:01:01] LoadBizz[ Загрузка ... ] Потрачено: 39ms | Загружено: 66 бизнесов
+[18:01:01] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[18:01:01] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[18:01:01] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[18:01:01] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[18:01:01] LoadGarages[ Загрузка ... ] Потрачено: 106ms | Загружено: 157 гаражей
+[18:01:01] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[18:01:01] maxaccs = 961
+[18:01:01] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[18:01:01] Система мебели: Загружено 2335 мебели!
+[18:01:32] SaveAutoFunc. Потрачено: 30336ms
+[18:01:32] LoadAutoFunc[ Загрузка ... ] Потрачено: 30519ms | Загружено: 0 транспорта
+[18:01:32] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[18:01:32] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[18:01:32] LoadZas[ Загрузка ... ] Потрачено: 133ms | Загружено: 5 АЗС
+[18:01:32] Система объектов: Загружено 51 объектов!
+[18:01:32] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[18:02:54] [connection] 127.0.0.1:55899 requests connection cookie.
+[18:02:55] [connection] incoming connection: 127.0.0.1:55899 id: 0
+[18:02:56] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[18:02:56] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:31:34] filterscripts = ""  (string)
+[18:31:34] 
+[18:31:34] Server Plugins
+[18:31:34] --------------
+[18:31:34]  Loading plugin: gvar
+[18:31:34] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:31:34]   Loaded.
+[18:31:34]  Loading plugin: mysql
+[18:31:34]  >> plugin.mysql: running on 1 thread.
+[18:31:34]  >> plugin.mysql: R31 successfully loaded.
+[18:31:34]   Loaded.
+[18:31:34]  Loading plugin: sscanf
+[18:31:34] 
+
+[18:31:34]  ===============================
+
+[18:31:34]       sscanf plugin loaded.     
+
+[18:31:34]    (c) 2009 Alex "Y_Less" Cole
+
+[18:31:34]    0.3d-R2 500 Players "dnee"
+
+[18:31:34]  ===============================
+
+[18:31:34]   Loaded.
+[18:31:34]  Loading plugin: streamer
+[18:31:34] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:31:34]   Loaded.
+[18:31:34]  Loaded 4 plugins.
+
+[18:31:35] 
+[18:31:35] Filterscripts
+[18:31:35] ---------------
+[18:31:35]   Loaded 0 filterscripts.
+
+[18:31:35]  
+[18:31:35]  
+[18:31:35]  
+[18:31:35]  ======================================= 
+[18:31:35]  |                                     | 
+[18:31:35]  |        YSI version 3.09.0684        | 
+[18:31:35]  |        By Alex "Y_Less" Cole        | 
+[18:31:35]  |                                     | 
+[18:31:35]  ======================================= 
+[18:31:35]  
+[18:31:35]  
+[18:31:35]  
+[18:31:35] Серверная погода Сонячно - 0
+[18:31:35] [MYSQL] подключение успешно (1)
+[18:31:35] LoadBankFrac
+[18:31:35] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 0ms
+[18:31:36] # Copyright © 2012-2016 By Ilya. #
+[18:31:36] Number of vehicle models: 22
+[18:31:36] LoadProperty[ Загрузка ... ] Потрачено: 481ms | Загружено: 722 домов
+[18:31:36] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[18:31:36] LoadBizz[ Загрузка ... ] Потрачено: 74ms | Загружено: 66 бизнесов
+[18:31:36] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[18:31:36] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 55ms
+[18:31:36] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[18:31:36] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[18:31:36] LoadGarages[ Загрузка ... ] Потрачено: 135ms | Загружено: 157 гаражей
+[18:31:36] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[18:31:36] maxaccs = 961
+[18:31:36] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[18:31:37] Система мебели: Загружено 2335 мебели!
+[18:32:04] SaveAutoFunc. Потрачено: 26568ms
+[18:32:04] LoadAutoFunc[ Загрузка ... ] Потрачено: 26903ms | Загружено: 0 транспорта
+[18:32:04] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[18:32:04] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[18:32:04] LoadZas[ Загрузка ... ] Потрачено: 29ms | Загружено: 5 АЗС
+[18:32:04] Система объектов: Загружено 51 объектов!
+[18:32:04] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[18:33:22] [connection] 127.0.0.1:62755 requests connection cookie.
+[18:33:23] [connection] incoming connection: 127.0.0.1:62755 id: 0
+[18:33:23] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[18:33:23] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:53:53] filterscripts = ""  (string)
+[18:53:53] 
+[18:53:53] Server Plugins
+[18:53:53] --------------
+[18:53:53]  Loading plugin: gvar
+[18:53:53] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:53:53]   Loaded.
+[18:53:53]  Loading plugin: mysql
+[18:53:53]  >> plugin.mysql: running on 1 thread.
+[18:53:53]  >> plugin.mysql: R31 successfully loaded.
+[18:53:53]   Loaded.
+[18:53:53]  Loading plugin: sscanf
+[18:53:53] 
+
+[18:53:53]  ===============================
+
+[18:53:53]       sscanf plugin loaded.     
+
+[18:53:53]    (c) 2009 Alex "Y_Less" Cole
+
+[18:53:53]    0.3d-R2 500 Players "dnee"
+
+[18:53:53]  ===============================
+
+[18:53:53]   Loaded.
+[18:53:53]  Loading plugin: streamer
+[18:53:53] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:53:53]   Loaded.
+[18:53:53]  Loaded 4 plugins.
+
+[18:53:53] 
+[18:53:53] Filterscripts
+[18:53:53] ---------------
+[18:53:53]   Loaded 0 filterscripts.
+
+[18:53:53]  
+[18:53:53]  
+[18:53:53]  
+[18:53:53]  ======================================= 
+[18:53:53]  |                                     | 
+[18:53:53]  |        YSI version 3.09.0684        | 
+[18:53:53]  |        By Alex "Y_Less" Cole        | 
+[18:53:53]  |                                     | 
+[18:53:53]  ======================================= 
+[18:53:53]  
+[18:53:53]  
+[18:53:53]  
+[18:53:53] Серверная погода Сонячно - 0
+[18:53:53] [MYSQL] подключение успешно (1)
+[18:53:53] LoadBankFrac
+[18:53:53] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 2ms
+[18:53:53] # Copyright © 2012-2016 By Ilya. #
+[18:53:53] Number of vehicle models: 22
+[18:53:53] LoadProperty[ Загрузка ... ] Потрачено: 372ms | Загружено: 722 домов
+[18:53:53] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[18:53:53] LoadBizz[ Загрузка ... ] Потрачено: 33ms | Загружено: 66 бизнесов
+[18:53:53] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[18:53:53] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[18:53:53] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[18:53:53] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[18:53:53] LoadGarages[ Загрузка ... ] Потрачено: 56ms | Загружено: 157 гаражей
+[18:53:53] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[18:53:53] maxaccs = 961
+[18:53:53] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[18:53:54] Система мебели: Загружено 2335 мебели!
+[18:54:18] SaveAutoFunc. Потрачено: 24005ms
+[18:54:18] LoadAutoFunc[ Загрузка ... ] Потрачено: 24159ms | Загружено: 0 транспорта
+[18:54:18] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[18:54:18] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[18:54:18] LoadZas[ Загрузка ... ] Потрачено: 46ms | Загружено: 5 АЗС
+[18:54:18] Система объектов: Загружено 51 объектов!
+[18:54:18] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[18:55:21] [connection] 127.0.0.1:60449 requests connection cookie.
+[18:55:22] [connection] incoming connection: 127.0.0.1:60449 id: 0
+[18:55:22] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[18:55:22] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:00:12] filterscripts = ""  (string)
+[19:00:12] 
+[19:00:12] Server Plugins
+[19:00:12] --------------
+[19:00:12]  Loading plugin: gvar
+[19:00:12] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:00:12]   Loaded.
+[19:00:12]  Loading plugin: mysql
+[19:00:12]  >> plugin.mysql: running on 1 thread.
+[19:00:12]  >> plugin.mysql: R31 successfully loaded.
+[19:00:12]   Loaded.
+[19:00:12]  Loading plugin: sscanf
+[19:00:12] 
+
+[19:00:12]  ===============================
+
+[19:00:12]       sscanf plugin loaded.     
+
+[19:00:12]    (c) 2009 Alex "Y_Less" Cole
+
+[19:00:12]    0.3d-R2 500 Players "dnee"
+
+[19:00:12]  ===============================
+
+[19:00:12]   Loaded.
+[19:00:12]  Loading plugin: streamer
+[19:00:12] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[19:00:12]   Loaded.
+[19:00:12]  Loaded 4 plugins.
+
+[19:00:12] 
+[19:00:12] Filterscripts
+[19:00:12] ---------------
+[19:00:12]   Loaded 0 filterscripts.
+
+[19:00:13]  
+[19:00:13]  
+[19:00:13]  
+[19:00:13]  ======================================= 
+[19:00:13]  |                                     | 
+[19:00:13]  |        YSI version 3.09.0684        | 
+[19:00:13]  |        By Alex "Y_Less" Cole        | 
+[19:00:13]  |                                     | 
+[19:00:13]  ======================================= 
+[19:00:13]  
+[19:00:13]  
+[19:00:13]  
+[19:00:13] Серверная погода Сонячно - 0
+[19:00:13] [MYSQL] подключение успешно (1)
+[19:00:13] LoadBankFrac
+[19:00:13] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[19:00:13] # Copyright © 2012-2016 By Ilya. #
+[19:00:13] Number of vehicle models: 22
+[19:00:13] LoadProperty[ Загрузка ... ] Потрачено: 287ms | Загружено: 722 домов
+[19:00:13] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[19:00:13] LoadBizz[ Загрузка ... ] Потрачено: 31ms | Загружено: 66 бизнесов
+[19:00:13] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[19:00:13] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[19:00:13] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[19:00:13] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[19:00:13] LoadGarages[ Загрузка ... ] Потрачено: 57ms | Загружено: 157 гаражей
+[19:00:13] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[19:00:13] maxaccs = 961
+[19:00:13] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[19:00:13] Система мебели: Загружено 2335 мебели!
+[19:00:29] SaveAutoFunc. Потрачено: 15970ms
+[19:00:29] LoadAutoFunc[ Загрузка ... ] Потрачено: 16131ms | Загружено: 0 транспорта
+[19:00:29] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[19:00:29] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[19:00:30] LoadZas[ Загрузка ... ] Потрачено: 529ms | Загружено: 5 АЗС
+[19:00:30] Система объектов: Загружено 51 объектов!
+[19:00:30] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[19:02:54] [connection] 127.0.0.1:51223 requests connection cookie.
+[19:02:55] [connection] incoming connection: 127.0.0.1:51223 id: 0
+[19:02:55] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[19:02:55] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:13:45] filterscripts = ""  (string)
+[19:13:45] 
+[19:13:45] Server Plugins
+[19:13:45] --------------
+[19:13:45]  Loading plugin: gvar
+[19:13:45] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:13:45]   Loaded.
+[19:13:45]  Loading plugin: mysql
+[19:13:45]  >> plugin.mysql: running on 1 thread.
+[19:13:45]  >> plugin.mysql: R31 successfully loaded.
+[19:13:45]   Loaded.
+[19:13:45]  Loading plugin: sscanf
+[19:13:45] 
+
+[19:13:45]  ===============================
+
+[19:13:45]       sscanf plugin loaded.     
+
+[19:13:45]    (c) 2009 Alex "Y_Less" Cole
+
+[19:13:45]    0.3d-R2 500 Players "dnee"
+
+[19:13:45]  ===============================
+
+[19:13:45]   Loaded.
+[19:13:45]  Loading plugin: streamer
+[19:13:45] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[19:13:45]   Loaded.
+[19:13:45]  Loaded 4 plugins.
+
+[19:13:45] 
+[19:13:45] Filterscripts
+[19:13:45] ---------------
+[19:13:45]   Loaded 0 filterscripts.
+
+[19:13:45]  
+[19:13:45]  
+[19:13:45]  
+[19:13:45]  ======================================= 
+[19:13:45]  |                                     | 
+[19:13:45]  |        YSI version 3.09.0684        | 
+[19:13:45]  |        By Alex "Y_Less" Cole        | 
+[19:13:45]  |                                     | 
+[19:13:45]  ======================================= 
+[19:13:45]  
+[19:13:45]  
+[19:13:45]  
+[19:13:45] Серверная погода Сонячно - 0
+[19:13:45] [MYSQL] подключение успешно (1)
+[19:13:45] LoadBankFrac
+[19:13:45] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[19:13:45] # Copyright © 2012-2016 By Ilya. #
+[19:13:45] Number of vehicle models: 22
+[19:13:45] LoadProperty[ Загрузка ... ] Потрачено: 282ms | Загружено: 722 домов
+[19:13:45] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[19:13:45] LoadBizz[ Загрузка ... ] Потрачено: 30ms | Загружено: 66 бизнесов
+[19:13:45] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[19:13:45] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[19:13:45] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[19:13:45] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[19:13:45] LoadGarages[ Загрузка ... ] Потрачено: 56ms | Загружено: 157 гаражей
+[19:13:45] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[19:13:45] maxaccs = 961
+[19:13:45] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[19:13:45] Система мебели: Загружено 2335 мебели!
+[19:13:55] SaveAutoFunc. Потрачено: 9299ms
+[19:13:55] LoadAutoFunc[ Загрузка ... ] Потрачено: 9453ms | Загружено: 0 транспорта
+[19:13:55] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[19:13:55] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[19:13:55] LoadZas[ Загрузка ... ] Потрачено: 1ms | Загружено: 5 АЗС
+[19:13:55] Система объектов: Загружено 51 объектов!
+[19:13:55] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[19:15:17] [connection] 127.0.0.1:57268 requests connection cookie.
+[19:15:18] [connection] incoming connection: 127.0.0.1:57268 id: 0
+[19:15:18] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[19:15:18] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:56] filterscripts = ""  (string)
+[19:25:56] 
+[19:25:56] Server Plugins
+[19:25:56] --------------
+[19:25:56]  Loading plugin: gvar
+[19:25:56] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:25:56]   Loaded.
+[19:25:56]  Loading plugin: mysql
+[19:25:56]  >> plugin.mysql: running on 1 thread.
+[19:25:56]  >> plugin.mysql: R31 successfully loaded.
+[19:25:56]   Loaded.
+[19:25:56]  Loading plugin: sscanf
+[19:25:56] 
+
+[19:25:56]  ===============================
+
+[19:25:56]       sscanf plugin loaded.     
+
+[19:25:56]    (c) 2009 Alex "Y_Less" Cole
+
+[19:25:56]    0.3d-R2 500 Players "dnee"
+
+[19:25:56]  ===============================
+
+[19:25:56]   Loaded.
+[19:25:56]  Loading plugin: streamer
+[19:25:56] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[19:25:56]   Loaded.
+[19:25:56]  Loaded 4 plugins.
+
+[19:25:56] 
+[19:25:56] Filterscripts
+[19:25:56] ---------------
+[19:25:56]   Loaded 0 filterscripts.
+
+[19:25:56]  
+[19:25:56]  
+[19:25:56]  
+[19:25:56]  ======================================= 
+[19:25:56]  |                                     | 
+[19:25:56]  |        YSI version 3.09.0684        | 
+[19:25:56]  |        By Alex "Y_Less" Cole        | 
+[19:25:56]  |                                     | 
+[19:25:56]  ======================================= 
+[19:25:56]  
+[19:25:56]  
+[19:25:56]  
+[19:25:56] Серверная погода Сонячно - 0
+[19:25:56] [MYSQL] подключение успешно (1)
+[19:25:56] LoadBankFrac
+[19:25:56] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 0ms
+[19:25:56] # Copyright © 2012-2016 By Ilya. #
+[19:25:56] Number of vehicle models: 22
+[19:25:57] LoadProperty[ Загрузка ... ] Потрачено: 367ms | Загружено: 722 домов
+[19:25:57] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[19:25:57] LoadBizz[ Загрузка ... ] Потрачено: 30ms | Загружено: 66 бизнесов
+[19:25:57] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[19:25:57] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[19:25:57] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[19:25:57] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[19:25:57] LoadGarages[ Загрузка ... ] Потрачено: 58ms | Загружено: 157 гаражей
+[19:25:57] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[19:25:57] maxaccs = 961
+[19:25:57] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[19:25:57] Система мебели: Загружено 2335 мебели!
+[19:26:00] SaveAutoFunc. Потрачено: 2941ms
+[19:26:00] LoadAutoFunc[ Загрузка ... ] Потрачено: 3097ms | Загружено: 0 транспорта
+[19:26:00] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[19:26:00] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[19:26:00] LoadZas[ Загрузка ... ] Потрачено: 0ms | Загружено: 5 АЗС
+[19:26:00] Система объектов: Загружено 51 объектов!
+[19:26:00] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[19:27:24] [connection] 127.0.0.1:55084 requests connection cookie.
+[19:27:25] [connection] incoming connection: 127.0.0.1:55084 id: 0
+[19:27:25] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[19:27:25] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:35:59] filterscripts = ""  (string)
+[19:35:59] 
+[19:35:59] Server Plugins
+[19:35:59] --------------
+[19:35:59]  Loading plugin: gvar
+[19:35:59] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:35:59]   Loaded.
+[19:35:59]  Loading plugin: mysql
+[19:35:59]  >> plugin.mysql: running on 1 thread.
+[19:35:59]  >> plugin.mysql: R31 successfully loaded.
+[19:35:59]   Loaded.
+[19:35:59]  Loading plugin: sscanf
+[19:35:59] 
+
+[19:35:59]  ===============================
+
+[19:35:59]       sscanf plugin loaded.     
+
+[19:35:59]    (c) 2009 Alex "Y_Less" Cole
+
+[19:35:59]    0.3d-R2 500 Players "dnee"
+
+[19:35:59]  ===============================
+
+[19:35:59]   Loaded.
+[19:35:59]  Loading plugin: streamer
+[19:35:59] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[19:35:59]   Loaded.
+[19:35:59]  Loaded 4 plugins.
+
+[19:35:59] 
+[19:35:59] Filterscripts
+[19:35:59] ---------------
+[19:35:59]   Loaded 0 filterscripts.
+
+[19:35:59]  
+[19:35:59]  
+[19:35:59]  
+[19:35:59]  ======================================= 
+[19:35:59]  |                                     | 
+[19:35:59]  |        YSI version 3.09.0684        | 
+[19:35:59]  |        By Alex "Y_Less" Cole        | 
+[19:35:59]  |                                     | 
+[19:35:59]  ======================================= 
+[19:35:59]  
+[19:35:59]  
+[19:35:59]  
+[19:35:59] Серверная погода Сонячно - 0
+[19:35:59] [MYSQL] подключение успешно (1)
+[19:35:59] LoadBankFrac
+[19:35:59] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[19:35:59] # Copyright © 2012-2016 By Ilya. #
+[19:35:59] Number of vehicle models: 22
+[19:36:00] LoadProperty[ Загрузка ... ] Потрачено: 299ms | Загружено: 722 домов
+[19:36:00] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[19:36:00] LoadBizz[ Загрузка ... ] Потрачено: 32ms | Загружено: 66 бизнесов
+[19:36:00] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[19:36:00] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[19:36:00] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[19:36:00] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[19:36:00] LoadGarages[ Загрузка ... ] Потрачено: 63ms | Загружено: 157 гаражей
+[19:36:00] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[19:36:00] maxaccs = 961
+[19:36:00] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[19:36:00] Система мебели: Загружено 2335 мебели!
+[19:36:26] SaveAutoFunc. Потрачено: 25420ms
+[19:36:26] LoadAutoFunc[ Загрузка ... ] Потрачено: 25581ms | Загружено: 0 транспорта
+[19:36:26] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[19:36:26] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[19:36:26] LoadZas[ Загрузка ... ] Потрачено: 204ms | Загружено: 5 АЗС
+[19:36:26] Система объектов: Загружено 51 объектов!
+[19:36:26] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[19:37:28] [connection] 127.0.0.1:54196 requests connection cookie.
+[19:37:29] [connection] incoming connection: 127.0.0.1:54196 id: 0
+[19:37:29] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[19:37:29] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:52:11] filterscripts = ""  (string)
+[19:52:11] 
+[19:52:11] Server Plugins
+[19:52:11] --------------
+[19:52:11]  Loading plugin: gvar
+[19:52:11] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:52:11]   Loaded.
+[19:52:11]  Loading plugin: mysql
+[19:52:11]  >> plugin.mysql: running on 1 thread.
+[19:52:11]  >> plugin.mysql: R31 successfully loaded.
+[19:52:11]   Loaded.
+[19:52:11]  Loading plugin: sscanf
+[19:52:11] 
+
+[19:52:11]  ===============================
+
+[19:52:11]       sscanf plugin loaded.     
+
+[19:52:11]    (c) 2009 Alex "Y_Less" Cole
+
+[19:52:11]    0.3d-R2 500 Players "dnee"
+
+[19:52:11]  ===============================
+
+[19:52:11]   Loaded.
+[19:52:11]  Loading plugin: streamer
+[19:52:11] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[19:52:11]   Loaded.
+[19:52:11]  Loaded 4 plugins.
+
+[19:52:11] 
+[19:52:11] Filterscripts
+[19:52:11] ---------------
+[19:52:11]   Loaded 0 filterscripts.
+
+[19:52:11]  
+[19:52:11]  
+[19:52:11]  
+[19:52:11]  ======================================= 
+[19:52:11]  |                                     | 
+[19:52:11]  |        YSI version 3.09.0684        | 
+[19:52:11]  |        By Alex "Y_Less" Cole        | 
+[19:52:11]  |                                     | 
+[19:52:11]  ======================================= 
+[19:52:11]  
+[19:52:11]  
+[19:52:11]  
+[19:52:11] Серверная погода Сонячно - 0
+[19:52:11] [MYSQL] подключение успешно (1)
+[19:52:11] LoadBankFrac
+[19:52:11] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 0ms
+[19:52:11] # Copyright © 2012-2016 By Ilya. #
+[19:52:11] Number of vehicle models: 22
+[19:52:11] LoadProperty[ Загрузка ... ] Потрачено: 316ms | Загружено: 722 домов
+[19:52:11] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[19:52:11] LoadBizz[ Загрузка ... ] Потрачено: 35ms | Загружено: 66 бизнесов
+[19:52:11] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[19:52:11] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[19:52:11] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[19:52:11] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[19:52:11] LoadGarages[ Загрузка ... ] Потрачено: 58ms | Загружено: 157 гаражей
+[19:52:11] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[19:52:11] maxaccs = 961
+[19:52:11] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[19:52:12] Система мебели: Загружено 2335 мебели!
+[19:52:31] SaveAutoFunc. Потрачено: 19698ms
+[19:52:31] LoadAutoFunc[ Загрузка ... ] Потрачено: 19854ms | Загружено: 0 транспорта
+[19:52:31] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[19:52:31] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[19:52:32] LoadZas[ Загрузка ... ] Потрачено: 504ms | Загружено: 5 АЗС
+[19:52:32] Система объектов: Загружено 51 объектов!
+[19:52:32] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[19:53:43] [connection] 127.0.0.1:57118 requests connection cookie.
+[19:53:44] [connection] incoming connection: 127.0.0.1:57118 id: 0
+[19:53:44] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[19:53:44] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:02:35] filterscripts = ""  (string)
+[20:02:35] 
+[20:02:35] Server Plugins
+[20:02:35] --------------
+[20:02:35]  Loading plugin: gvar
+[20:02:35] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:02:35]   Loaded.
+[20:02:35]  Loading plugin: mysql
+[20:02:35]  >> plugin.mysql: running on 1 thread.
+[20:02:35]  >> plugin.mysql: R31 successfully loaded.
+[20:02:35]   Loaded.
+[20:02:35]  Loading plugin: sscanf
+[20:02:35] 
+
+[20:02:35]  ===============================
+
+[20:02:35]       sscanf plugin loaded.     
+
+[20:02:35]    (c) 2009 Alex "Y_Less" Cole
+
+[20:02:35]    0.3d-R2 500 Players "dnee"
+
+[20:02:35]  ===============================
+
+[20:02:35]   Loaded.
+[20:02:35]  Loading plugin: streamer
+[20:02:35] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:02:35]   Loaded.
+[20:02:35]  Loaded 4 plugins.
+
+[20:02:35] 
+[20:02:35] Filterscripts
+[20:02:35] ---------------
+[20:02:35]   Loaded 0 filterscripts.
+
+[20:02:35]  
+[20:02:35]  
+[20:02:35]  
+[20:02:35]  ======================================= 
+[20:02:35]  |                                     | 
+[20:02:35]  |        YSI version 3.09.0684        | 
+[20:02:35]  |        By Alex "Y_Less" Cole        | 
+[20:02:35]  |                                     | 
+[20:02:35]  ======================================= 
+[20:02:35]  
+[20:02:35]  
+[20:02:35]  
+[20:02:35] Серверная погода Сонячно - 0
+[20:02:35] [MYSQL] подключение успешно (1)
+[20:02:35] LoadBankFrac
+[20:02:35] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[20:02:35] # Copyright © 2012-2016 By Ilya. #
+[20:02:35] Number of vehicle models: 22
+[20:02:36] LoadProperty[ Загрузка ... ] Потрачено: 312ms | Загружено: 722 домов
+[20:02:36] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[20:02:36] LoadBizz[ Загрузка ... ] Потрачено: 44ms | Загружено: 66 бизнесов
+[20:02:36] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[20:02:36] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[20:02:36] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[20:02:36] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[20:02:36] LoadGarages[ Загрузка ... ] Потрачено: 61ms | Загружено: 157 гаражей
+[20:02:36] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[20:02:36] maxaccs = 961
+[20:02:36] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[20:02:36] Система мебели: Загружено 2335 мебели!
+[20:02:58] SaveAutoFunc. Потрачено: 21977ms
+[20:02:58] LoadAutoFunc[ Загрузка ... ] Потрачено: 22159ms | Загружено: 0 транспорта
+[20:02:58] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 5ms
+[20:02:58] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[20:02:58] LoadZas[ Загрузка ... ] Потрачено: 117ms | Загружено: 5 АЗС
+[20:02:58] Система объектов: Загружено 51 объектов!
+[20:02:58] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[20:04:06] [connection] 127.0.0.1:56558 requests connection cookie.
+[20:04:07] [connection] incoming connection: 127.0.0.1:56558 id: 0
+[20:04:08] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[20:04:08] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:18:01] filterscripts = ""  (string)
+[20:18:01] 
+[20:18:01] Server Plugins
+[20:18:01] --------------
+[20:18:01]  Loading plugin: gvar
+[20:18:01] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:18:01]   Loaded.
+[20:18:01]  Loading plugin: mysql
+[20:18:01]  >> plugin.mysql: running on 1 thread.
+[20:18:01]  >> plugin.mysql: R31 successfully loaded.
+[20:18:01]   Loaded.
+[20:18:01]  Loading plugin: sscanf
+[20:18:01] 
+
+[20:18:01]  ===============================
+
+[20:18:01]       sscanf plugin loaded.     
+
+[20:18:01]    (c) 2009 Alex "Y_Less" Cole
+
+[20:18:01]    0.3d-R2 500 Players "dnee"
+
+[20:18:01]  ===============================
+
+[20:18:01]   Loaded.
+[20:18:01]  Loading plugin: streamer
+[20:18:01] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:18:01]   Loaded.
+[20:18:01]  Loaded 4 plugins.
+
+[20:18:01] 
+[20:18:01] Filterscripts
+[20:18:01] ---------------
+[20:18:01]   Loaded 0 filterscripts.
+
+[20:18:01]  
+[20:18:01]  
+[20:18:01]  
+[20:18:01]  ======================================= 
+[20:18:01]  |                                     | 
+[20:18:01]  |        YSI version 3.09.0684        | 
+[20:18:01]  |        By Alex "Y_Less" Cole        | 
+[20:18:01]  |                                     | 
+[20:18:01]  ======================================= 
+[20:18:01]  
+[20:18:01]  
+[20:18:01]  
+[20:18:01] Серверная погода Сонячно - 0
+[20:18:01] [MYSQL] подключение успешно (1)
+[20:18:01] LoadBankFrac
+[20:18:01] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[20:18:01] # Copyright © 2012-2016 By Ilya. #
+[20:18:01] Number of vehicle models: 22
+[20:18:02] LoadProperty[ Загрузка ... ] Потрачено: 308ms | Загружено: 722 домов
+[20:18:02] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[20:18:02] LoadBizz[ Загрузка ... ] Потрачено: 38ms | Загружено: 66 бизнесов
+[20:18:02] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[20:18:02] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[20:18:02] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[20:18:02] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[20:18:02] LoadGarages[ Загрузка ... ] Потрачено: 56ms | Загружено: 157 гаражей
+[20:18:02] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[20:18:02] maxaccs = 961
+[20:18:02] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[20:18:02] Система мебели: Загружено 2335 мебели!
+[20:18:33] SaveAutoFunc. Потрачено: 30502ms
+[20:18:33] LoadAutoFunc[ Загрузка ... ] Потрачено: 30672ms | Загружено: 0 транспорта
+[20:18:33] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[20:18:33] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[20:18:33] LoadZas[ Загрузка ... ] Потрачено: 104ms | Загружено: 5 АЗС
+[20:18:33] Система объектов: Загружено 51 объектов!
+[20:18:33] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[20:19:30] [connection] 127.0.0.1:64794 requests connection cookie.
+[20:19:31] [connection] incoming connection: 127.0.0.1:64794 id: 0
+[20:19:31] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[20:19:32] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:18:27] filterscripts = ""  (string)
+[13:18:27] 
+[13:18:27] Server Plugins
+[13:18:27] --------------
+[13:18:27]  Loading plugin: gvar
+[13:18:27] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:18:27]   Loaded.
+[13:18:27]  Loading plugin: mysql
+[13:18:27]  >> plugin.mysql: running on 1 thread.
+[13:18:27]  >> plugin.mysql: R31 successfully loaded.
+[13:18:27]   Loaded.
+[13:18:27]  Loading plugin: sscanf
+[13:18:27] 
+
+[13:18:27]  ===============================
+
+[13:18:27]       sscanf plugin loaded.     
+
+[13:18:27]    (c) 2009 Alex "Y_Less" Cole
+
+[13:18:27]    0.3d-R2 500 Players "dnee"
+
+[13:18:27]  ===============================
+
+[13:18:27]   Loaded.
+[13:18:27]  Loading plugin: streamer
+[13:18:27] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:18:27]   Loaded.
+[13:18:27]  Loaded 4 plugins.
+
+[13:18:27] 
+[13:18:27] Filterscripts
+[13:18:27] ---------------
+[13:18:27]   Loaded 0 filterscripts.
+
+[13:18:27]  
+[13:18:27]  
+[13:18:27]  
+[13:18:27]  ======================================= 
+[13:18:27]  |                                     | 
+[13:18:27]  |        YSI version 3.09.0684        | 
+[13:18:27]  |        By Alex "Y_Less" Cole        | 
+[13:18:27]  |                                     | 
+[13:18:27]  ======================================= 
+[13:18:27]  
+[13:18:27]  
+[13:18:27]  
+[13:18:27] Серверная погода Сонячно - 0
+[13:18:27] [MYSQL] подключение успешно (1)
+[13:18:27] LoadBankFrac
+[13:18:27] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[13:18:27] # Copyright © 2012-2016 By Ilya. #
+[13:18:27] Number of vehicle models: 22
+[13:18:28] LoadProperty[ Загрузка ... ] Потрачено: 1052ms | Загружено: 722 домов
+[13:18:28] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[13:18:29] LoadBizz[ Загрузка ... ] Потрачено: 55ms | Загружено: 66 бизнесов
+[13:18:29] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[13:18:29] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[13:18:29] LoadGatesSystem[ Загрузка ... ] Потрачено: 4ms
+[13:18:29] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[13:18:29] LoadGarages[ Загрузка ... ] Потрачено: 62ms | Загружено: 157 гаражей
+[13:18:29] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[13:18:29] maxaccs = 961
+[13:18:29] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[13:18:29] Система мебели: Загружено 2335 мебели!
+[13:18:41] SaveAutoFunc. Потрачено: 12081ms
+[13:18:41] LoadAutoFunc[ Загрузка ... ] Потрачено: 12259ms | Загружено: 0 транспорта
+[13:18:41] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[13:18:41] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[13:18:41] LoadZas[ Загрузка ... ] Потрачено: 303ms | Загружено: 5 АЗС
+[13:18:41] Система объектов: Загружено 51 объектов!
+[13:18:41] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[13:20:12] [connection] 127.0.0.1:58451 requests connection cookie.
+[13:20:13] [connection] incoming connection: 127.0.0.1:58451 id: 0
+[13:20:14] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:20:14] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[13:22:55] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:24:41] filterscripts = ""  (string)
+[13:24:41] 
+[13:24:41] Server Plugins
+[13:24:41] --------------
+[13:24:41]  Loading plugin: gvar
+[13:24:41] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:24:41]   Loaded.
+[13:24:41]  Loading plugin: mysql
+[13:24:41]  >> plugin.mysql: running on 1 thread.
+[13:24:41]  >> plugin.mysql: R31 successfully loaded.
+[13:24:41]   Loaded.
+[13:24:41]  Loading plugin: sscanf
+[13:24:41] 
+
+[13:24:41]  ===============================
+
+[13:24:41]       sscanf plugin loaded.     
+
+[13:24:41]    (c) 2009 Alex "Y_Less" Cole
+
+[13:24:41]    0.3d-R2 500 Players "dnee"
+
+[13:24:41]  ===============================
+
+[13:24:41]   Loaded.
+[13:24:41]  Loading plugin: streamer
+[13:24:41] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:24:41]   Loaded.
+[13:24:41]  Loaded 4 plugins.
+
+[13:24:41] 
+[13:24:41] Filterscripts
+[13:24:41] ---------------
+[13:24:41]   Loaded 0 filterscripts.
+
+[13:24:41]  
+[13:24:41]  
+[13:24:41]  
+[13:24:41]  ======================================= 
+[13:24:41]  |                                     | 
+[13:24:41]  |        YSI version 3.09.0684        | 
+[13:24:41]  |        By Alex "Y_Less" Cole        | 
+[13:24:41]  |                                     | 
+[13:24:41]  ======================================= 
+[13:24:41]  
+[13:24:41]  
+[13:24:41]  
+[13:24:41] Серверная погода Сонячно - 0
+[13:24:41] [MYSQL] подключение успешно (1)
+[13:24:41] LoadBankFrac
+[13:24:41] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 2ms
+[13:24:41] # Copyright © 2012-2016 By Ilya. #
+[13:24:41] Number of vehicle models: 22
+[13:24:42] LoadProperty[ Загрузка ... ] Потрачено: 420ms | Загружено: 722 домов
+[13:24:42] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[13:24:42] LoadBizz[ Загрузка ... ] Потрачено: 34ms | Загружено: 66 бизнесов
+[13:24:42] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[13:24:42] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[13:24:42] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[13:24:42] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[13:24:42] LoadGarages[ Загрузка ... ] Потрачено: 57ms | Загружено: 157 гаражей
+[13:24:42] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[13:24:42] maxaccs = 961
+[13:24:42] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[13:24:42] Система мебели: Загружено 2335 мебели!
+[13:25:10] SaveAutoFunc. Потрачено: 27709ms
+[13:25:10] LoadAutoFunc[ Загрузка ... ] Потрачено: 27874ms | Загружено: 0 транспорта
+[13:25:10] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[13:25:10] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[13:25:10] LoadZas[ Загрузка ... ] Потрачено: 329ms | Загружено: 5 АЗС
+[13:25:10] Система объектов: Загружено 51 объектов!
+[13:25:10] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[13:26:20] [connection] 127.0.0.1:63035 requests connection cookie.
+[13:26:21] [connection] incoming connection: 127.0.0.1:63035 id: 0
+[13:26:22] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:26:22] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:42:07] filterscripts = ""  (string)
+[13:42:07] 
+[13:42:07] Server Plugins
+[13:42:07] --------------
+[13:42:07]  Loading plugin: gvar
+[13:42:07] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:42:07]   Loaded.
+[13:42:07]  Loading plugin: mysql
+[13:42:07]  >> plugin.mysql: running on 1 thread.
+[13:42:07]  >> plugin.mysql: R31 successfully loaded.
+[13:42:07]   Loaded.
+[13:42:07]  Loading plugin: sscanf
+[13:42:07] 
+
+[13:42:07]  ===============================
+
+[13:42:07]       sscanf plugin loaded.     
+
+[13:42:07]    (c) 2009 Alex "Y_Less" Cole
+
+[13:42:07]    0.3d-R2 500 Players "dnee"
+
+[13:42:07]  ===============================
+
+[13:42:07]   Loaded.
+[13:42:07]  Loading plugin: streamer
+[13:42:07] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:42:07]   Loaded.
+[13:42:07]  Loaded 4 plugins.
+
+[13:42:07] 
+[13:42:07] Filterscripts
+[13:42:07] ---------------
+[13:42:07]   Loaded 0 filterscripts.
+
+[13:42:07]  
+[13:42:07]  
+[13:42:07]  
+[13:42:07]  ======================================= 
+[13:42:07]  |                                     | 
+[13:42:07]  |        YSI version 3.09.0684        | 
+[13:42:07]  |        By Alex "Y_Less" Cole        | 
+[13:42:07]  |                                     | 
+[13:42:07]  ======================================= 
+[13:42:07]  
+[13:42:07]  
+[13:42:07]  
+[13:42:07] Серверная погода Сонячно - 0
+[13:42:07] [MYSQL] подключение успешно (1)
+[13:42:07] LoadBankFrac
+[13:42:07] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[13:42:07] # Copyright © 2012-2016 By Ilya. #
+[13:42:07] Number of vehicle models: 22
+[13:42:07] LoadProperty[ Загрузка ... ] Потрачено: 299ms | Загружено: 722 домов
+[13:42:07] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[13:42:08] LoadBizz[ Загрузка ... ] Потрачено: 35ms | Загружено: 66 бизнесов
+[13:42:08] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[13:42:08] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[13:42:08] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[13:42:08] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[13:42:08] LoadGarages[ Загрузка ... ] Потрачено: 63ms | Загружено: 157 гаражей
+[13:42:08] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[13:42:08] maxaccs = 961
+[13:42:08] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[13:42:08] Система мебели: Загружено 2335 мебели!
+[13:42:25] SaveAutoFunc. Потрачено: 17243ms
+[13:42:25] LoadAutoFunc[ Загрузка ... ] Потрачено: 17412ms | Загружено: 0 транспорта
+[13:42:25] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[13:42:25] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[13:42:25] LoadZas[ Загрузка ... ] Потрачено: 14ms | Загружено: 5 АЗС
+[13:42:25] Система объектов: Загружено 51 объектов!
+[13:42:25] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[13:43:39] [connection] 127.0.0.1:64925 requests connection cookie.
+[13:43:40] [connection] incoming connection: 127.0.0.1:64925 id: 0
+[13:43:40] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:43:40] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[14:12:10] Серверная погода Сонячно - 5
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:44:22] filterscripts = ""  (string)
+[18:44:22] 
+[18:44:22] Server Plugins
+[18:44:22] --------------
+[18:44:22]  Loading plugin: gvar
+[18:44:22] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:44:22]   Loaded.
+[18:44:22]  Loading plugin: mysql
+[18:44:22]  >> plugin.mysql: running on 1 thread.
+[18:44:22]  >> plugin.mysql: R31 successfully loaded.
+[18:44:22]   Loaded.
+[18:44:22]  Loading plugin: sscanf
+[18:44:22] 
+
+[18:44:22]  ===============================
+
+[18:44:22]       sscanf plugin loaded.     
+
+[18:44:22]    (c) 2009 Alex "Y_Less" Cole
+
+[18:44:22]    0.3d-R2 500 Players "dnee"
+
+[18:44:22]  ===============================
+
+[18:44:22]   Loaded.
+[18:44:22]  Loading plugin: streamer
+[18:44:22] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:44:22]   Loaded.
+[18:44:22]  Loaded 4 plugins.
+
+[18:44:22] 
+[18:44:22] Filterscripts
+[18:44:22] ---------------
+[18:44:22]   Loaded 0 filterscripts.
+
+[18:44:24]  
+[18:44:24]  
+[18:44:24]  
+[18:44:24]  ======================================= 
+[18:44:24]  |                                     | 
+[18:44:24]  |        YSI version 3.09.0684        | 
+[18:44:24]  |        By Alex "Y_Less" Cole        | 
+[18:44:24]  |                                     | 
+[18:44:24]  ======================================= 
+[18:44:24]  
+[18:44:24]  
+[18:44:24]  
+[18:44:24] Серверная погода Сонячно - 0
+[18:44:26] [MYSQL] подключение успешно (1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:44:30] filterscripts = ""  (string)
+[18:44:30] 
+[18:44:30] Server Plugins
+[18:44:30] --------------
+[18:44:30]  Loading plugin: gvar
+[18:44:30] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:44:30]   Loaded.
+[18:44:30]  Loading plugin: mysql
+[18:44:30]  >> plugin.mysql: running on 1 thread.
+[18:44:30]  >> plugin.mysql: R31 successfully loaded.
+[18:44:30]   Loaded.
+[18:44:30]  Loading plugin: sscanf
+[18:44:30] 
+
+[18:44:30]  ===============================
+
+[18:44:30]       sscanf plugin loaded.     
+
+[18:44:30]    (c) 2009 Alex "Y_Less" Cole
+
+[18:44:30]    0.3d-R2 500 Players "dnee"
+
+[18:44:30]  ===============================
+
+[18:44:30]   Loaded.
+[18:44:30]  Loading plugin: streamer
+[18:44:30] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:44:30]   Loaded.
+[18:44:30]  Loaded 4 plugins.
+
+[18:44:30] 
+[18:44:30] Filterscripts
+[18:44:30] ---------------
+[18:44:30]   Loaded 0 filterscripts.
+
+[18:44:30]  
+[18:44:30]  
+[18:44:30]  
+[18:44:30]  ======================================= 
+[18:44:30]  |                                     | 
+[18:44:30]  |        YSI version 3.09.0684        | 
+[18:44:30]  |        By Alex "Y_Less" Cole        | 
+[18:44:30]  |                                     | 
+[18:44:30]  ======================================= 
+[18:44:30]  
+[18:44:30]  
+[18:44:30]  
+[18:44:30] Серверная погода Сонячно - 0
+[18:44:30] [MYSQL] подключение успешно (1)
+[18:44:30] LoadBankFrac
+[18:44:30] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 12ms
+[18:44:30] # Copyright © 2012-2016 By Ilya. #
+[18:44:30] Number of vehicle models: 22
+[18:44:32] LoadProperty[ Загрузка ... ] Потрачено: 1028ms | Загружено: 722 домов
+[18:44:32] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[18:44:32] LoadBizz[ Загрузка ... ] Потрачено: 60ms | Загружено: 66 бизнесов
+[18:44:32] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[18:44:32] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[18:44:32] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[18:44:32] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[18:44:32] LoadGarages[ Загрузка ... ] Потрачено: 61ms | Загружено: 157 гаражей
+[18:44:32] LoadParking[ Загрузка ... ] Потрачено: 1ms | Загружено: 0 парковок
+[18:44:32] maxaccs = 961
+[18:44:32] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[18:44:32] Система мебели: Загружено 2335 мебели!
+[18:45:04] SaveAutoFunc. Потрачено: 32079ms
+[18:45:04] LoadAutoFunc[ Загрузка ... ] Потрачено: 32235ms | Загружено: 0 транспорта
+[18:45:04] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[18:45:04] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[18:45:04] LoadZas[ Загрузка ... ] Потрачено: 103ms | Загружено: 5 АЗС
+[18:45:04] Система объектов: Загружено 51 объектов!
+[18:45:04] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[18:46:27] [connection] 127.0.0.1:49685 requests connection cookie.
+[18:46:28] [connection] incoming connection: 127.0.0.1:49685 id: 0
+[18:46:29] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[18:46:29] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:14:52] filterscripts = ""  (string)
+[20:14:52] 
+[20:14:52] Server Plugins
+[20:14:52] --------------
+[20:14:52]  Loading plugin: gvar
+[20:14:52] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[20:14:52]   Loaded.
+[20:14:52]  Loading plugin: mysql
+[20:14:53]  >> plugin.mysql: running on 1 thread.
+[20:14:53]  >> plugin.mysql: R31 successfully loaded.
+[20:14:53]   Loaded.
+[20:14:53]  Loading plugin: sscanf
+[20:14:53] 
+
+[20:14:53]  ===============================
+
+[20:14:53]       sscanf plugin loaded.     
+
+[20:14:53]    (c) 2009 Alex "Y_Less" Cole
+
+[20:14:53]    0.3d-R2 500 Players "dnee"
+
+[20:14:53]  ===============================
+
+[20:14:53]   Loaded.
+[20:14:53]  Loading plugin: streamer
+[20:14:53] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:14:53]   Loaded.
+[20:14:53]  Loaded 4 plugins.
+
+[20:14:53] 
+[20:14:53] Filterscripts
+[20:14:53] ---------------
+[20:14:53]   Loaded 0 filterscripts.
+
+[20:14:53]  
+[20:14:53]  
+[20:14:53]  
+[20:14:53]  ======================================= 
+[20:14:53]  |                                     | 
+[20:14:53]  |        YSI version 3.09.0684        | 
+[20:14:53]  |        By Alex "Y_Less" Cole        | 
+[20:14:53]  |                                     | 
+[20:14:53]  ======================================= 
+[20:14:53]  
+[20:14:53]  
+[20:14:53]  
+[20:14:53] Серверная погода Сонячно - 0
+[20:14:53] [MYSQL] подключение успешно (1)
+[20:14:53] LoadBankFrac
+[20:14:53] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[20:14:53] # Copyright © 2012-2016 By Ilya. #
+[20:14:53] Number of vehicle models: 22
+[20:14:54] LoadProperty[ Загрузка ... ] Потрачено: 677ms | Загружено: 722 домов
+[20:14:54] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[20:14:54] LoadBizz[ Загрузка ... ] Потрачено: 31ms | Загружено: 66 бизнесов
+[20:14:54] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[20:14:54] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[20:14:54] LoadGatesSystem[ Загрузка ... ] Потрачено: 2ms
+[20:14:54] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[20:14:54] LoadGarages[ Загрузка ... ] Потрачено: 57ms | Загружено: 157 гаражей
+[20:14:54] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[20:14:54] maxaccs = 961
+[20:14:54] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[20:14:54] Система мебели: Загружено 2335 мебели!
+[20:15:21] SaveAutoFunc. Потрачено: 26622ms
+[20:15:21] LoadAutoFunc[ Загрузка ... ] Потрачено: 26774ms | Загружено: 0 транспорта
+[20:15:21] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[20:15:21] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[20:15:21] LoadZas[ Загрузка ... ] Потрачено: 29ms | Загружено: 5 АЗС
+[20:15:21] Система объектов: Загружено 51 объектов!
+[20:15:21] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[20:17:20] [connection] 127.0.0.1:57107 requests connection cookie.
+[20:17:21] [connection] incoming connection: 127.0.0.1:57107 id: 0
+[20:17:22] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[20:17:22] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[20:44:53] Серверная погода Сонячно - 6
+[20:52:42] SaveAutoFunc. Потрачено: 108ms
+[20:52:42] [part] Arthur_Houston has left the server (0:1)
+[20:52:43] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:06:49] filterscripts = ""  (string)
+[23:06:49] 
+[23:06:49] Server Plugins
+[23:06:49] --------------
+[23:06:49]  Loading plugin: gvar
+[23:06:49] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[23:06:49]   Loaded.
+[23:06:49]  Loading plugin: mysql
+[23:06:49]  >> plugin.mysql: running on 1 thread.
+[23:06:49]  >> plugin.mysql: R31 successfully loaded.
+[23:06:49]   Loaded.
+[23:06:49]  Loading plugin: sscanf
+[23:06:49] 
+
+[23:06:49]  ===============================
+
+[23:06:49]       sscanf plugin loaded.     
+
+[23:06:49]    (c) 2009 Alex "Y_Less" Cole
+
+[23:06:49]    0.3d-R2 500 Players "dnee"
+
+[23:06:49]  ===============================
+
+[23:06:49]   Loaded.
+[23:06:49]  Loading plugin: streamer
+[23:06:49] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[23:06:49]   Loaded.
+[23:06:49]  Loaded 4 plugins.
+
+[23:06:49] 
+[23:06:49] Filterscripts
+[23:06:49] ---------------
+[23:06:49]   Loaded 0 filterscripts.
+
+[23:06:49]  
+[23:06:49]  
+[23:06:49]  
+[23:06:49]  ======================================= 
+[23:06:49]  |                                     | 
+[23:06:49]  |        YSI version 3.09.0684        | 
+[23:06:49]  |        By Alex "Y_Less" Cole        | 
+[23:06:49]  |                                     | 
+[23:06:49]  ======================================= 
+[23:06:49]  
+[23:06:49]  
+[23:06:49]  
+[23:06:49] Серверная погода Сонячно - 0
+[23:06:50] [MYSQL] подключение успешно (1)
+[23:06:50] LoadBankFrac
+[23:06:50] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[23:06:50] # Copyright © 2012-2016 By Ilya. #
+[23:06:50] Number of vehicle models: 22
+[23:06:51] LoadProperty[ Загрузка ... ] Потрачено: 685ms | Загружено: 722 домов
+[23:06:51] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[23:06:51] LoadBizz[ Загрузка ... ] Потрачено: 30ms | Загружено: 66 бизнесов
+[23:06:51] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[23:06:51] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 21ms
+[23:06:51] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[23:06:51] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[23:06:51] LoadGarages[ Загрузка ... ] Потрачено: 58ms | Загружено: 157 гаражей
+[23:06:51] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[23:06:51] maxaccs = 961
+[23:06:51] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[23:06:51] Система мебели: Загружено 2335 мебели!
+[23:07:16] SaveAutoFunc. Потрачено: 24530ms
+[23:07:16] LoadAutoFunc[ Загрузка ... ] Потрачено: 24681ms | Загружено: 0 транспорта
+[23:07:16] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[23:07:16] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[23:07:16] LoadZas[ Загрузка ... ] Потрачено: 329ms | Загружено: 5 АЗС
+[23:07:16] Система объектов: Загружено 51 объектов!
+[23:07:16] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[23:08:44] [connection] 127.0.0.1:50696 requests connection cookie.
+[23:08:45] [connection] incoming connection: 127.0.0.1:50696 id: 0
+[23:08:46] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[23:08:46] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[23:36:37] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:42:29] filterscripts = ""  (string)
+[23:42:29] 
+[23:42:29] Server Plugins
+[23:42:29] --------------
+[23:42:29]  Loading plugin: gvar
+[23:42:29] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[23:42:29]   Loaded.
+[23:42:29]  Loading plugin: mysql
+[23:42:29]  >> plugin.mysql: running on 1 thread.
+[23:42:29]  >> plugin.mysql: R31 successfully loaded.
+[23:42:29]   Loaded.
+[23:42:29]  Loading plugin: sscanf
+[23:42:29] 
+
+[23:42:29]  ===============================
+
+[23:42:29]       sscanf plugin loaded.     
+
+[23:42:29]    (c) 2009 Alex "Y_Less" Cole
+
+[23:42:29]    0.3d-R2 500 Players "dnee"
+
+[23:42:29]  ===============================
+
+[23:42:29]   Loaded.
+[23:42:29]  Loading plugin: streamer
+[23:42:29] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[23:42:29]   Loaded.
+[23:42:29]  Loaded 4 plugins.
+
+[23:42:30] 
+[23:42:30] Filterscripts
+[23:42:30] ---------------
+[23:42:30]   Loaded 0 filterscripts.
+
+[23:42:30]  
+[23:42:30]  
+[23:42:30]  
+[23:42:30]  ======================================= 
+[23:42:30]  |                                     | 
+[23:42:30]  |        YSI version 3.09.0684        | 
+[23:42:30]  |        By Alex "Y_Less" Cole        | 
+[23:42:30]  |                                     | 
+[23:42:30]  ======================================= 
+[23:42:30]  
+[23:42:30]  
+[23:42:30]  
+[23:42:30] Серверная погода Сонячно - 0
+[23:42:30] [MYSQL] подключение успешно (1)
+[23:42:30] LoadBankFrac
+[23:42:30] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 0ms
+[23:42:30] # Copyright © 2012-2016 By Ilya. #
+[23:42:30] Number of vehicle models: 22
+[23:42:30] LoadProperty[ Загрузка ... ] Потрачено: 333ms | Загружено: 722 домов
+[23:42:30] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[23:42:30] LoadBizz[ Загрузка ... ] Потрачено: 33ms | Загружено: 66 бизнесов
+[23:42:30] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[23:42:30] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[23:42:30] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[23:42:30] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[23:42:30] LoadGarages[ Загрузка ... ] Потрачено: 59ms | Загружено: 157 гаражей
+[23:42:30] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[23:42:30] maxaccs = 961
+[23:42:30] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[23:42:30] Система мебели: Загружено 2335 мебели!
+[23:42:55] SaveAutoFunc. Потрачено: 24424ms
+[23:42:55] LoadAutoFunc[ Загрузка ... ] Потрачено: 24588ms | Загружено: 0 транспорта
+[23:42:55] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[23:42:55] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[23:42:55] LoadZas[ Загрузка ... ] Потрачено: 1ms | Загружено: 5 АЗС
+[23:42:55] Система объектов: Загружено 51 объектов!
+[23:42:55] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[23:43:59] [connection] 127.0.0.1:49931 requests connection cookie.
+[23:44:00] [connection] incoming connection: 127.0.0.1:49931 id: 0
+[23:44:00] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[23:44:00] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:36:51] filterscripts = ""  (string)
+[13:36:51] 
+[13:36:51] Server Plugins
+[13:36:51] --------------
+[13:36:51]  Loading plugin: gvar
+[13:36:51] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[13:36:51]   Loaded.
+[13:36:51]  Loading plugin: mysql
+[13:36:51]  >> plugin.mysql: running on 1 thread.
+[13:36:51]  >> plugin.mysql: R31 successfully loaded.
+[13:36:51]   Loaded.
+[13:36:51]  Loading plugin: sscanf
+[13:36:51] 
+
+[13:36:51]  ===============================
+
+[13:36:51]       sscanf plugin loaded.     
+
+[13:36:51]    (c) 2009 Alex "Y_Less" Cole
+
+[13:36:51]    0.3d-R2 500 Players "dnee"
+
+[13:36:51]  ===============================
+
+[13:36:51]   Loaded.
+[13:36:51]  Loading plugin: streamer
+[13:36:51] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[13:36:51]   Loaded.
+[13:36:51]  Loaded 4 plugins.
+
+[13:36:51] 
+[13:36:51] Filterscripts
+[13:36:51] ---------------
+[13:36:51]   Loaded 0 filterscripts.
+
+[13:36:51]  
+[13:36:51]  
+[13:36:51]  
+[13:36:51]  ======================================= 
+[13:36:51]  |                                     | 
+[13:36:51]  |        YSI version 3.09.0684        | 
+[13:36:51]  |        By Alex "Y_Less" Cole        | 
+[13:36:51]  |                                     | 
+[13:36:51]  ======================================= 
+[13:36:51]  
+[13:36:51]  
+[13:36:51]  
+[13:36:51] Серверная погода Сонячно - 0
+[13:36:51] [MYSQL] подключение успешно (1)
+[13:36:51] LoadBankFrac
+[13:36:51] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[13:36:51] # Copyright © 2012-2016 By Ilya. #
+[13:36:51] Number of vehicle models: 22
+[13:36:52] LoadProperty[ Загрузка ... ] Потрачено: 716ms | Загружено: 722 домов
+[13:36:52] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[13:36:52] LoadBizz[ Загрузка ... ] Потрачено: 66ms | Загружено: 66 бизнесов
+[13:36:52] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[13:36:52] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[13:36:52] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[13:36:52] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[13:36:52] LoadGarages[ Загрузка ... ] Потрачено: 57ms | Загружено: 158 гаражей
+[13:36:52] LoadParking[ Загрузка ... ] Потрачено: 1ms | Загружено: 0 парковок
+[13:36:52] maxaccs = 961
+[13:36:52] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[13:36:53] Система мебели: Загружено 2335 мебели!
+[13:37:18] SaveAutoFunc. Потрачено: 24950ms
+[13:37:18] LoadAutoFunc[ Загрузка ... ] Потрачено: 25106ms | Загружено: 0 транспорта
+[13:37:18] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[13:37:18] LoadFracInventory[ Загрузка ... ] Потрачено: 0ms
+[13:37:18] LoadZas[ Загрузка ... ] Потрачено: 87ms | Загружено: 5 АЗС
+[13:37:18] Система объектов: Загружено 51 объектов!
+[13:37:18] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[13:38:40] [connection] 127.0.0.1:61374 requests connection cookie.
+[13:38:41] [connection] incoming connection: 127.0.0.1:61374 id: 0
+[13:38:42] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:38:42] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[13:53:42] SaveAutoFunc. Потрачено: 13228ms
+[13:53:42] [part] Mask_3875 has left the server (0:1)
+[13:55:14] [connection] 127.0.0.1:49657 requests connection cookie.
+[13:55:15] [connection] incoming connection: 127.0.0.1:49657 id: 0
+[13:55:16] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[13:55:16] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[14:12:01] SaveAutoFunc. Потрачено: 66ms
+[14:12:01] [part] Mask_3875 has left the server (0:1)
+[14:12:04] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:38] filterscripts = ""  (string)
+[18:08:38] 
+[18:08:38] Server Plugins
+[18:08:38] --------------
+[18:08:38]  Loading plugin: gvar
+[18:08:38] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:08:38]   Loaded.
+[18:08:38]  Loading plugin: mysql
+[18:08:38]  >> plugin.mysql: running on 1 thread.
+[18:08:38]  >> plugin.mysql: R31 successfully loaded.
+[18:08:38]   Loaded.
+[18:08:38]  Loading plugin: sscanf
+[18:08:38] 
+
+[18:08:38]  ===============================
+
+[18:08:38]       sscanf plugin loaded.     
+
+[18:08:38]    (c) 2009 Alex "Y_Less" Cole
+
+[18:08:38]    0.3d-R2 500 Players "dnee"
+
+[18:08:38]  ===============================
+
+[18:08:38]   Loaded.
+[18:08:38]  Loading plugin: streamer
+[18:08:38] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:08:38]   Loaded.
+[18:08:38]  Loaded 4 plugins.
+
+[18:08:38] 
+[18:08:38] Filterscripts
+[18:08:38] ---------------
+[18:08:38]   Loaded 0 filterscripts.
+
+[18:08:38]  
+[18:08:38]  
+[18:08:38]  
+[18:08:38]  ======================================= 
+[18:08:38]  |                                     | 
+[18:08:38]  |        YSI version 3.09.0684        | 
+[18:08:38]  |        By Alex "Y_Less" Cole        | 
+[18:08:38]  |                                     | 
+[18:08:38]  ======================================= 
+[18:08:38]  
+[18:08:38]  
+[18:08:38]  
+[18:08:38] Серверная погода Сонячно - 0
+[18:08:38] [MYSQL] подключение успешно (1)
+[18:08:38] LoadBankFrac
+[18:08:39] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[18:08:39] # Copyright © 2012-2016 By Ilya. #
+[18:08:39] Number of vehicle models: 22
+[18:08:39] LoadProperty[ Загрузка ... ] Потрачено: 799ms | Загружено: 722 домов
+[18:08:39] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[18:08:39] LoadBizz[ Загрузка ... ] Потрачено: 35ms | Загружено: 66 бизнесов
+[18:08:39] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[18:08:39] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[18:08:39] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[18:08:39] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[18:08:40] LoadGarages[ Загрузка ... ] Потрачено: 59ms | Загружено: 158 гаражей
+[18:08:40] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[18:08:40] maxaccs = 961
+[18:08:40] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[18:08:40] Система мебели: Загружено 2335 мебели!
+[18:09:03] SaveAutoFunc. Потрачено: 22823ms
+[18:09:03] LoadAutoFunc[ Загрузка ... ] Потрачено: 23013ms | Загружено: 0 транспорта
+[18:09:03] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[18:09:03] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[18:09:03] LoadZas[ Загрузка ... ] Потрачено: 235ms | Загружено: 5 АЗС
+[18:09:03] Система объектов: Загружено 51 объектов!
+[18:09:03] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[18:10:37] [connection] 127.0.0.1:63519 requests connection cookie.
+[18:10:38] [connection] incoming connection: 127.0.0.1:63519 id: 0
+[18:10:38] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[18:10:39] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:52] filterscripts = ""  (string)
+[00:14:52] 
+[00:14:52] Server Plugins
+[00:14:52] --------------
+[00:14:52]  Loading plugin: gvar
+[00:14:52] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[00:14:52]   Loaded.
+[00:14:52]  Loading plugin: mysql
+[00:14:52]  >> plugin.mysql: running on 1 thread.
+[00:14:52]  >> plugin.mysql: R31 successfully loaded.
+[00:14:52]   Loaded.
+[00:14:52]  Loading plugin: sscanf
+[00:14:52] 
+
+[00:14:52]  ===============================
+
+[00:14:52]       sscanf plugin loaded.     
+
+[00:14:52]    (c) 2009 Alex "Y_Less" Cole
+
+[00:14:52]    0.3d-R2 500 Players "dnee"
+
+[00:14:52]  ===============================
+
+[00:14:52]   Loaded.
+[00:14:52]  Loading plugin: streamer
+[00:14:52] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[00:14:52]   Loaded.
+[00:14:52]  Loaded 4 plugins.
+
+[00:14:52] 
+[00:14:52] Filterscripts
+[00:14:52] ---------------
+[00:14:52]   Loaded 0 filterscripts.
+
+[00:14:52]  
+[00:14:52]  
+[00:14:52]  
+[00:14:52]  ======================================= 
+[00:14:52]  |                                     | 
+[00:14:52]  |        YSI version 3.09.0684        | 
+[00:14:52]  |        By Alex "Y_Less" Cole        | 
+[00:14:52]  |                                     | 
+[00:14:52]  ======================================= 
+[00:14:52]  
+[00:14:52]  
+[00:14:52]  
+[00:14:52] Серверная погода Сонячно - 0
+[00:14:54] [MYSQL] неудалось соединится с базой данных (1)
+[00:14:54] # Copyright © 2012-2016 By Ilya. #
+[00:14:54] Number of vehicle models: 0
+[00:14:57] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:09] filterscripts = ""  (string)
+[00:15:09] 
+[00:15:09] Server Plugins
+[00:15:09] --------------
+[00:15:09]  Loading plugin: gvar
+[00:15:09] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[00:15:09]   Loaded.
+[00:15:09]  Loading plugin: mysql
+[00:15:09]  >> plugin.mysql: running on 1 thread.
+[00:15:09]  >> plugin.mysql: R31 successfully loaded.
+[00:15:09]   Loaded.
+[00:15:09]  Loading plugin: sscanf
+[00:15:09] 
+
+[00:15:09]  ===============================
+
+[00:15:09]       sscanf plugin loaded.     
+
+[00:15:09]    (c) 2009 Alex "Y_Less" Cole
+
+[00:15:09]    0.3d-R2 500 Players "dnee"
+
+[00:15:09]  ===============================
+
+[00:15:09]   Loaded.
+[00:15:09]  Loading plugin: streamer
+[00:15:10] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[00:15:10]   Loaded.
+[00:15:10]  Loaded 4 plugins.
+
+[00:15:10] 
+[00:15:10] Filterscripts
+[00:15:10] ---------------
+[00:15:10]   Loaded 0 filterscripts.
+
+[00:15:10]  
+[00:15:10]  
+[00:15:10]  
+[00:15:10]  ======================================= 
+[00:15:10]  |                                     | 
+[00:15:10]  |        YSI version 3.09.0684        | 
+[00:15:10]  |        By Alex "Y_Less" Cole        | 
+[00:15:10]  |                                     | 
+[00:15:10]  ======================================= 
+[00:15:10]  
+[00:15:10]  
+[00:15:10]  
+[00:15:10] Серверная погода Сонячно - 0
+[00:15:10] [MYSQL] подключение успешно (1)
+[00:15:10] LoadBankFrac
+[00:15:10] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[00:15:10] # Copyright © 2012-2016 By Ilya. #
+[00:15:10] Number of vehicle models: 22
+[00:15:12] LoadProperty[ Загрузка ... ] Потрачено: 1123ms | Загружено: 722 домов
+[00:15:12] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[00:15:12] LoadBizz[ Загрузка ... ] Потрачено: 63ms | Загружено: 66 бизнесов
+[00:15:12] LoadPodezd[ Загрузка ... ] Потрачено: 12ms | Загружено: 63 подъездов
+[00:15:12] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[00:15:12] LoadGatesSystem[ Загрузка ... ] Потрачено: 4ms
+[00:15:12] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[00:15:12] LoadGarages[ Загрузка ... ] Потрачено: 61ms | Загружено: 158 гаражей
+[00:15:12] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[00:15:12] maxaccs = 961
+[00:15:12] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[00:15:12] Система мебели: Загружено 2335 мебели!
+[00:15:40] SaveAutoFunc. Потрачено: 27404ms
+[00:15:40] LoadAutoFunc[ Загрузка ... ] Потрачено: 27570ms | Загружено: 0 транспорта
+[00:15:40] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[00:15:40] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[00:15:40] LoadZas[ Загрузка ... ] Потрачено: 411ms | Загружено: 5 АЗС
+[00:15:40] Система объектов: Загружено 51 объектов!
+[00:15:40] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[00:17:18] [connection] 127.0.0.1:54179 requests connection cookie.
+[00:17:19] [connection] incoming connection: 127.0.0.1:54179 id: 0
+[00:17:19] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[00:17:19] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:17:27] filterscripts = ""  (string)
+[01:17:27] 
+[01:17:27] Server Plugins
+[01:17:27] --------------
+[01:17:27]  Loading plugin: gvar
+[01:17:27] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[01:17:27]   Loaded.
+[01:17:27]  Loading plugin: mysql
+[01:17:27]  >> plugin.mysql: running on 1 thread.
+[01:17:27]  >> plugin.mysql: R31 successfully loaded.
+[01:17:27]   Loaded.
+[01:17:27]  Loading plugin: sscanf
+[01:17:27] 
+
+[01:17:27]  ===============================
+
+[01:17:27]       sscanf plugin loaded.     
+
+[01:17:27]    (c) 2009 Alex "Y_Less" Cole
+
+[01:17:27]    0.3d-R2 500 Players "dnee"
+
+[01:17:27]  ===============================
+
+[01:17:27]   Loaded.
+[01:17:27]  Loading plugin: streamer
+[01:17:27] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[01:17:27]   Loaded.
+[01:17:27]  Loaded 4 plugins.
+
+[01:17:27] 
+[01:17:27] Filterscripts
+[01:17:27] ---------------
+[01:17:27]   Loaded 0 filterscripts.
+
+[01:17:27]  
+[01:17:27]  
+[01:17:27]  
+[01:17:27]  ======================================= 
+[01:17:27]  |                                     | 
+[01:17:27]  |        YSI version 3.09.0684        | 
+[01:17:27]  |        By Alex "Y_Less" Cole        | 
+[01:17:27]  |                                     | 
+[01:17:27]  ======================================= 
+[01:17:27]  
+[01:17:27]  
+[01:17:28]  
+[01:17:28] Серверная погода Сонячно - 0
+[01:17:28] [MYSQL] подключение успешно (1)
+[01:17:28] LoadBankFrac
+[01:17:28] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[01:17:28] # Copyright © 2012-2016 By Ilya. #
+[01:17:28] Number of vehicle models: 22
+[01:17:28] LoadProperty[ Загрузка ... ] Потрачено: 422ms | Загружено: 722 домов
+[01:17:28] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[01:17:28] LoadBizz[ Загрузка ... ] Потрачено: 33ms | Загружено: 66 бизнесов
+[01:17:28] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[01:17:28] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[01:17:28] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[01:17:28] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[01:17:28] LoadGarages[ Загрузка ... ] Потрачено: 59ms | Загружено: 158 гаражей
+[01:17:28] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[01:17:28] maxaccs = 961
+[01:17:28] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[01:17:28] Система мебели: Загружено 2335 мебели!
+[01:17:51] SaveAutoFunc. Потрачено: 22728ms
+[01:17:51] LoadAutoFunc[ Загрузка ... ] Потрачено: 22884ms | Загружено: 0 транспорта
+[01:17:51] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 3ms
+[01:17:51] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[01:17:52] LoadZas[ Загрузка ... ] Потрачено: 426ms | Загружено: 5 АЗС
+[01:17:52] Система объектов: Загружено 51 объектов!
+[01:17:52] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[01:22:28] [connection] 127.0.0.1:49423 requests connection cookie.
+[01:22:33] [connection] incoming connection: 127.0.0.1:49423 id: 0
+[01:22:33] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[01:22:33] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[01:25:59] SaveAutoFunc. Потрачено: 13865ms
+[01:25:59] [part] Arthur_Houston has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:42:59] filterscripts = ""  (string)
+[14:42:59] 
+[14:42:59] Server Plugins
+[14:42:59] --------------
+[14:42:59]  Loading plugin: gvar
+[14:42:59] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:42:59]   Loaded.
+[14:42:59]  Loading plugin: mysql
+[14:42:59]  >> plugin.mysql: running on 1 thread.
+[14:42:59]  >> plugin.mysql: R31 successfully loaded.
+[14:42:59]   Loaded.
+[14:42:59]  Loading plugin: sscanf
+[14:42:59] 
+
+[14:42:59]  ===============================
+
+[14:42:59]       sscanf plugin loaded.     
+
+[14:42:59]    (c) 2009 Alex "Y_Less" Cole
+
+[14:42:59]    0.3d-R2 500 Players "dnee"
+
+[14:42:59]  ===============================
+
+[14:42:59]   Loaded.
+[14:42:59]  Loading plugin: streamer
+[14:42:59] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:42:59]   Loaded.
+[14:42:59]  Loaded 4 plugins.
+
+[14:42:59] 
+[14:42:59] Filterscripts
+[14:42:59] ---------------
+[14:42:59]   Loaded 0 filterscripts.
+
+[14:43:00]  
+[14:43:00]  
+[14:43:00]  
+[14:43:00]  ======================================= 
+[14:43:00]  |                                     | 
+[14:43:00]  |        YSI version 3.09.0684        | 
+[14:43:00]  |        By Alex "Y_Less" Cole        | 
+[14:43:00]  |                                     | 
+[14:43:00]  ======================================= 
+[14:43:00]  
+[14:43:00]  
+[14:43:00]  
+[14:43:00] Серверная погода Сонячно - 0
+[14:43:02] [MYSQL] неудалось соединится с базой данных (1)
+[14:43:02] # Copyright © 2012-2016 By Ilya. #
+[14:43:02] Number of vehicle models: 0
+[14:45:44] [connection] 127.0.0.1:61877 requests connection cookie.
+[14:45:45] [connection] incoming connection: 127.0.0.1:61877 id: 0
+[14:45:45] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:45:45] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[14:45:47] Query: SELECT HIGH_PRIORITY * FROM `users` WHERE `username` = 'Arthur_Houston' LIMIT 1, callback: LoadUserInfo, connectionhandle: 1, error:MySQL server has gone away
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:48:37] filterscripts = ""  (string)
+[14:48:37] 
+[14:48:37] Server Plugins
+[14:48:37] --------------
+[14:48:37]  Loading plugin: gvar
+[14:48:37] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:48:37]   Loaded.
+[14:48:37]  Loading plugin: mysql
+[14:48:37]  >> plugin.mysql: running on 1 thread.
+[14:48:37]  >> plugin.mysql: R31 successfully loaded.
+[14:48:37]   Loaded.
+[14:48:37]  Loading plugin: sscanf
+[14:48:37] 
+
+[14:48:37]  ===============================
+
+[14:48:37]       sscanf plugin loaded.     
+
+[14:48:37]    (c) 2009 Alex "Y_Less" Cole
+
+[14:48:37]    0.3d-R2 500 Players "dnee"
+
+[14:48:37]  ===============================
+
+[14:48:37]   Loaded.
+[14:48:37]  Loading plugin: streamer
+[14:48:37] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:48:37]   Loaded.
+[14:48:37]  Loaded 4 plugins.
+
+[14:48:37] 
+[14:48:37] Filterscripts
+[14:48:37] ---------------
+[14:48:37]   Loaded 0 filterscripts.
+
+[14:48:37]  
+[14:48:37]  
+[14:48:37]  
+[14:48:37]  ======================================= 
+[14:48:37]  |                                     | 
+[14:48:37]  |        YSI version 3.09.0684        | 
+[14:48:37]  |        By Alex "Y_Less" Cole        | 
+[14:48:37]  |                                     | 
+[14:48:37]  ======================================= 
+[14:48:37]  
+[14:48:37]  
+[14:48:37]  
+[14:48:37] Серверная погода Сонячно - 0
+[14:48:39] [MYSQL] неудалось соединится с базой данных (1)
+[14:48:39] # Copyright © 2012-2016 By Ilya. #
+[14:48:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:49:35] filterscripts = ""  (string)
+[14:49:35] 
+[14:49:35] Server Plugins
+[14:49:35] --------------
+[14:49:35]  Loading plugin: gvar
+[14:49:35] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:49:35]   Loaded.
+[14:49:35]  Loading plugin: mysql
+[14:49:35]  >> plugin.mysql: running on 1 thread.
+[14:49:35]  >> plugin.mysql: R31 successfully loaded.
+[14:49:35]   Loaded.
+[14:49:35]  Loading plugin: sscanf
+[14:49:35] 
+
+[14:49:35]  ===============================
+
+[14:49:35]       sscanf plugin loaded.     
+
+[14:49:35]    (c) 2009 Alex "Y_Less" Cole
+
+[14:49:35]    0.3d-R2 500 Players "dnee"
+
+[14:49:35]  ===============================
+
+[14:49:35]   Loaded.
+[14:49:35]  Loading plugin: streamer
+[14:49:35] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:49:35]   Loaded.
+[14:49:35]  Loaded 4 plugins.
+
+[14:49:35] 
+[14:49:35] Filterscripts
+[14:49:35] ---------------
+[14:49:35]   Loaded 0 filterscripts.
+
+[14:49:35]  
+[14:49:35]  
+[14:49:35]  
+[14:49:35]  ======================================= 
+[14:49:35]  |                                     | 
+[14:49:35]  |        YSI version 3.09.0684        | 
+[14:49:35]  |        By Alex "Y_Less" Cole        | 
+[14:49:35]  |                                     | 
+[14:49:35]  ======================================= 
+[14:49:35]  
+[14:49:35]  
+[14:49:35]  
+[14:49:35] Серверная погода Сонячно - 0
+[14:49:35] [MYSQL] подключение успешно (1)
+[14:49:35] LoadBankFrac
+[14:49:35] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[14:49:35] # Copyright © 2012-2016 By Ilya. #
+[14:49:35] Number of vehicle models: 22
+[14:49:36] LoadProperty[ Загрузка ... ] Потрачено: 681ms | Загружено: 722 домов
+[14:49:36] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:49:36] LoadBizz[ Загрузка ... ] Потрачено: 54ms | Загружено: 66 бизнесов
+[14:49:36] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[14:49:36] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[14:49:36] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:49:36] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:49:36] LoadGarages[ Загрузка ... ] Потрачено: 75ms | Загружено: 158 гаражей
+[14:49:36] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:49:36] maxaccs = 961
+[14:49:36] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[14:49:36] Система мебели: Загружено 2335 мебели!
+[14:49:37] SaveAutoFunc. Потрачено: 607ms
+[14:49:37] LoadAutoFunc[ Загрузка ... ] Потрачено: 780ms | Загружено: 0 транспорта
+[14:49:37] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[14:49:37] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[14:49:37] LoadZas[ Загрузка ... ] Потрачено: 263ms | Загружено: 5 АЗС
+[14:49:37] Система объектов: Загружено 51 объектов!
+[14:49:37] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:50:33] filterscripts = ""  (string)
+[14:50:33] 
+[14:50:33] Server Plugins
+[14:50:33] --------------
+[14:50:33]  Loading plugin: gvar
+[14:50:33] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:50:33]   Loaded.
+[14:50:33]  Loading plugin: mysql
+[14:50:33]  >> plugin.mysql: running on 1 thread.
+[14:50:33]  >> plugin.mysql: R31 successfully loaded.
+[14:50:33]   Loaded.
+[14:50:33]  Loading plugin: sscanf
+[14:50:33] 
+
+[14:50:33]  ===============================
+
+[14:50:33]       sscanf plugin loaded.     
+
+[14:50:33]    (c) 2009 Alex "Y_Less" Cole
+
+[14:50:33]    0.3d-R2 500 Players "dnee"
+
+[14:50:33]  ===============================
+
+[14:50:33]   Loaded.
+[14:50:33]  Loading plugin: streamer
+[14:50:33] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:50:33]   Loaded.
+[14:50:33]  Loaded 4 plugins.
+
+[14:50:33] 
+[14:50:33] Filterscripts
+[14:50:33] ---------------
+[14:50:33]   Loaded 0 filterscripts.
+
+[14:50:33]  
+[14:50:33]  
+[14:50:33]  
+[14:50:33]  ======================================= 
+[14:50:33]  |                                     | 
+[14:50:33]  |        YSI version 3.09.0684        | 
+[14:50:33]  |        By Alex "Y_Less" Cole        | 
+[14:50:33]  |                                     | 
+[14:50:33]  ======================================= 
+[14:50:33]  
+[14:50:33]  
+[14:50:33]  
+[14:50:33] Серверная погода Сонячно - 0
+[14:50:33] [MYSQL] подключение успешно (1)
+[14:50:33] LoadBankFrac
+[14:50:33] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[14:50:33] # Copyright © 2012-2016 By Ilya. #
+[14:50:33] Number of vehicle models: 22
+[14:50:34] LoadProperty[ Загрузка ... ] Потрачено: 357ms | Загружено: 722 домов
+[14:50:34] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:50:34] LoadBizz[ Загрузка ... ] Потрачено: 35ms | Загружено: 66 бизнесов
+[14:50:34] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[14:50:34] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 26ms
+[14:50:34] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:50:34] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:50:34] LoadGarages[ Загрузка ... ] Потрачено: 63ms | Загружено: 158 гаражей
+[14:50:34] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:50:34] maxaccs = 961
+[14:50:34] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[14:50:34] Система мебели: Загружено 2335 мебели!
+[14:50:49] SaveAutoFunc. Потрачено: 14288ms
+[14:50:49] LoadAutoFunc[ Загрузка ... ] Потрачено: 14474ms | Загружено: 0 транспорта
+[14:50:49] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[14:50:49] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[14:50:51] LoadZas[ Загрузка ... ] Потрачено: 2114ms | Загружено: 5 АЗС
+[14:50:51] Система объектов: Загружено 51 объектов!
+[14:50:51] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[14:51:02] [connection] 127.0.0.1:49478 requests connection cookie.
+[14:51:03] [connection] incoming connection: 127.0.0.1:49478 id: 0
+[14:51:03] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:51:04] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[14:52:01] SaveAutoFunc. Потрачено: 17206ms
+[14:52:01] [part] Arthur_Houston has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:53:08] filterscripts = ""  (string)
+[14:53:08] 
+[14:53:08] Server Plugins
+[14:53:08] --------------
+[14:53:08]  Loading plugin: gvar
+[14:53:08] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:53:08]   Loaded.
+[14:53:08]  Loading plugin: mysql
+[14:53:08]  >> plugin.mysql: running on 1 thread.
+[14:53:08]  >> plugin.mysql: R31 successfully loaded.
+[14:53:08]   Loaded.
+[14:53:08]  Loading plugin: sscanf
+[14:53:08] 
+
+[14:53:08]  ===============================
+
+[14:53:08]       sscanf plugin loaded.     
+
+[14:53:08]    (c) 2009 Alex "Y_Less" Cole
+
+[14:53:08]    0.3d-R2 500 Players "dnee"
+
+[14:53:08]  ===============================
+
+[14:53:08]   Loaded.
+[14:53:08]  Loading plugin: streamer
+[14:53:08] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:53:08]   Loaded.
+[14:53:08]  Loaded 4 plugins.
+
+[14:53:08] 
+[14:53:08] Filterscripts
+[14:53:08] ---------------
+[14:53:08]   Loaded 0 filterscripts.
+
+[14:53:08]  
+[14:53:08]  
+[14:53:08]  
+[14:53:08]  ======================================= 
+[14:53:08]  |                                     | 
+[14:53:08]  |        YSI version 3.09.0684        | 
+[14:53:08]  |        By Alex "Y_Less" Cole        | 
+[14:53:08]  |                                     | 
+[14:53:08]  ======================================= 
+[14:53:08]  
+[14:53:08]  
+[14:53:08]  
+[14:53:08] Серверная погода Сонячно - 0
+[14:53:08] [MYSQL] подключение успешно (1)
+[14:53:08] LoadBankFrac
+[14:53:08] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 0ms
+[14:53:08] # Copyright © 2012-2016 By Ilya. #
+[14:53:08] Number of vehicle models: 22
+[14:53:08] LoadProperty[ Загрузка ... ] Потрачено: 407ms | Загружено: 722 домов
+[14:53:08] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:53:08] LoadBizz[ Загрузка ... ] Потрачено: 37ms | Загружено: 66 бизнесов
+[14:53:09] LoadPodezd[ Загрузка ... ] Потрачено: 10ms | Загружено: 63 подъездов
+[14:53:09] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 26ms
+[14:53:09] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:53:09] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:53:09] LoadGarages[ Загрузка ... ] Потрачено: 71ms | Загружено: 158 гаражей
+[14:53:09] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:53:09] maxaccs = 961
+[14:53:09] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[14:53:09] Система мебели: Загружено 2335 мебели!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:53:12] filterscripts = ""  (string)
+[14:53:12] 
+[14:53:12] Server Plugins
+[14:53:12] --------------
+[14:53:12]  Loading plugin: gvar
+[14:53:12] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:53:12]   Loaded.
+[14:53:12]  Loading plugin: mysql
+[14:53:12]  >> plugin.mysql: running on 1 thread.
+[14:53:12]  >> plugin.mysql: R31 successfully loaded.
+[14:53:12]   Loaded.
+[14:53:12]  Loading plugin: sscanf
+[14:53:12] 
+
+[14:53:12]  ===============================
+
+[14:53:12]       sscanf plugin loaded.     
+
+[14:53:12]    (c) 2009 Alex "Y_Less" Cole
+
+[14:53:12]    0.3d-R2 500 Players "dnee"
+
+[14:53:12]  ===============================
+
+[14:53:12]   Loaded.
+[14:53:12]  Loading plugin: streamer
+[14:53:12] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:53:12]   Loaded.
+[14:53:12]  Loaded 4 plugins.
+
+[14:53:12] 
+[14:53:12] Filterscripts
+[14:53:12] ---------------
+[14:53:12]   Loaded 0 filterscripts.
+
+[14:53:12]  
+[14:53:12]  
+[14:53:12]  
+[14:53:12]  ======================================= 
+[14:53:12]  |                                     | 
+[14:53:12]  |        YSI version 3.09.0684        | 
+[14:53:12]  |        By Alex "Y_Less" Cole        | 
+[14:53:12]  |                                     | 
+[14:53:12]  ======================================= 
+[14:53:12]  
+[14:53:12]  
+[14:53:12]  
+[14:53:12] Серверная погода Сонячно - 0
+[14:53:12] [MYSQL] подключение успешно (1)
+[14:53:12] LoadBankFrac
+[14:53:12] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[14:53:12] # Copyright © 2012-2016 By Ilya. #
+[14:53:12] Number of vehicle models: 22
+[14:53:12] LoadProperty[ Загрузка ... ] Потрачено: 344ms | Загружено: 722 домов
+[14:53:12] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:53:12] LoadBizz[ Загрузка ... ] Потрачено: 39ms | Загружено: 66 бизнесов
+[14:53:12] LoadPodezd[ Загрузка ... ] Потрачено: 11ms | Загружено: 63 подъездов
+[14:53:12] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 22ms
+[14:53:12] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:53:12] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:53:13] LoadGarages[ Загрузка ... ] Потрачено: 67ms | Загружено: 158 гаражей
+[14:53:13] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:53:13] maxaccs = 961
+[14:53:13] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[14:53:13] Система мебели: Загружено 2335 мебели!
+[14:53:44] SaveAutoFunc. Потрачено: 30718ms
+[14:53:44] LoadAutoFunc[ Загрузка ... ] Потрачено: 30898ms | Загружено: 0 транспорта
+[14:53:44] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[14:53:44] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[14:53:44] LoadZas[ Загрузка ... ] Потрачено: 241ms | Загружено: 5 АЗС
+[14:53:44] Система объектов: Загружено 51 объектов!
+[14:53:44] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[14:54:41] [connection] 127.0.0.1:56902 requests connection cookie.
+[14:54:42] [connection] incoming connection: 127.0.0.1:56902 id: 0
+[14:54:43] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:54:43] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:57:56] filterscripts = ""  (string)
+[14:57:56] 
+[14:57:56] Server Plugins
+[14:57:56] --------------
+[14:57:56]  Loading plugin: gvar
+[14:57:56] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[14:57:56]   Loaded.
+[14:57:56]  Loading plugin: mysql
+[14:57:56]  >> plugin.mysql: running on 1 thread.
+[14:57:56]  >> plugin.mysql: R31 successfully loaded.
+[14:57:56]   Loaded.
+[14:57:56]  Loading plugin: sscanf
+[14:57:56] 
+
+[14:57:56]  ===============================
+
+[14:57:56]       sscanf plugin loaded.     
+
+[14:57:56]    (c) 2009 Alex "Y_Less" Cole
+
+[14:57:56]    0.3d-R2 500 Players "dnee"
+
+[14:57:56]  ===============================
+
+[14:57:56]   Loaded.
+[14:57:56]  Loading plugin: streamer
+[14:57:56] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[14:57:56]   Loaded.
+[14:57:56]  Loaded 4 plugins.
+
+[14:57:56] 
+[14:57:56] Filterscripts
+[14:57:56] ---------------
+[14:57:56]   Loaded 0 filterscripts.
+
+[14:57:56]  
+[14:57:56]  
+[14:57:56]  
+[14:57:56]  ======================================= 
+[14:57:56]  |                                     | 
+[14:57:56]  |        YSI version 3.09.0684        | 
+[14:57:56]  |        By Alex "Y_Less" Cole        | 
+[14:57:56]  |                                     | 
+[14:57:56]  ======================================= 
+[14:57:56]  
+[14:57:56]  
+[14:57:56]  
+[14:57:56] Серверная погода Сонячно - 0
+[14:57:56] [MYSQL] подключение успешно (1)
+[14:57:56] LoadBankFrac
+[14:57:56] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[14:57:57] # Copyright © 2012-2016 By Ilya. #
+[14:57:57] Number of vehicle models: 22
+[14:57:57] LoadProperty[ Загрузка ... ] Потрачено: 463ms | Загружено: 722 домов
+[14:57:57] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[14:57:57] LoadBizz[ Загрузка ... ] Потрачено: 52ms | Загружено: 66 бизнесов
+[14:57:57] LoadPodezd[ Загрузка ... ] Потрачено: 9ms | Загружено: 63 подъездов
+[14:57:57] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 23ms
+[14:57:57] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[14:57:57] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[14:57:57] LoadGarages[ Загрузка ... ] Потрачено: 64ms | Загружено: 158 гаражей
+[14:57:57] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[14:57:57] maxaccs = 961
+[14:57:57] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[14:57:57] Система мебели: Загружено 2335 мебели!
+[14:58:07] SaveAutoFunc. Потрачено: 9007ms
+[14:58:07] LoadAutoFunc[ Загрузка ... ] Потрачено: 9183ms | Загружено: 0 транспорта
+[14:58:07] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 2ms
+[14:58:07] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[14:58:07] LoadZas[ Загрузка ... ] Потрачено: 168ms | Загружено: 5 АЗС
+[14:58:07] Система объектов: Загружено 51 объектов!
+[14:58:07] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[14:59:26] [connection] 127.0.0.1:62157 requests connection cookie.
+[14:59:27] [connection] incoming connection: 127.0.0.1:62157 id: 0
+[14:59:27] [join] Arthur_Houston has joined the server (0:127.0.0.1)
+[14:59:27] [GeoIP] Couldn't get geoip stats for player 0. Response Code: 6
+[14:59:43] SaveAutoFunc. Потрачено: 374ms
+[14:59:43] [part] Arthur_Houston has left the server (0:1)

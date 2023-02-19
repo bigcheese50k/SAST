@@ -1,0 +1,15 @@
+[20:46:23] [ERROR] CMySQLHandle::Connect - (error #1049) Unknown database 'ast'
+[20:49:26] [ERROR] CMySQLHandle::Connect - (error #1049) Unknown database 'ast'
+[20:19:59] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ютер',CURRENT_TIMESTAMP)' at line 1
+[20:20:06] [ERROR] CMySQLQuery::Execute[()] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ютер',CURRENT_TIMESTAMP)' at line 1
+[11:19:55] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[00:14:54] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[00:14:57] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[00:14:57] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[14:43:02] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:45:45] [ERROR] CMySQLQuery::Execute[LoadUserInfo(i)] - (error #2006) MySQL server has gone away
+[14:45:45] [WARNING] CMySQLQuery::Execute[LoadUserInfo(i)] - lost connection, reconnecting..
+[14:45:47] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
+[14:46:54] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[14:46:54] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[14:48:39] [ERROR] CMySQLHandle::Connect - (error #2003) Can't connect to MySQL server on 'localhost' (10061)
